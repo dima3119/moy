@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1,2х2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1,DW-TV
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DEUTSCHEWELLE/variant.m3u8
+#EXTINF:-1,Leomax24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_SHOP24/variant.m3u8
+#EXTINF:-1,NHK WORLD-JAPAN
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NHK/variant.m3u8
+#EXTINF:-1,RTTV HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RTTVHD/variant.m3u8
+#EXTINF:-1,Shop&Show
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHOPANDSHOW/variant.m3u8
+#EXTINF:-1,Shopping live
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHOPPINGLIFE/variant.m3u8
+#EXTINF:-1,БелРос
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TRO/variant.m3u8
+#EXTINF:-1,Беларусь 24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BELARUS24/variant.m3u8
+#EXTINF:-1,Большая Азия HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BIGASIAHD/variant.m3u8
+#EXTINF:-1,ВМЕСТЕ-РФ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SOVETFEDERATSII/variant.m3u8
+#EXTINF:-1,Всё ТВ
+https://s72169.cdn.ngenix.net/hls/CH_VSETVHD_HLS/variant.m3u8
+#EXTINF:-1,Домашний
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_DOMASHNY/variant.m3u8
+#EXTINF:-1,Звезда
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1,Карусель
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1,Мама
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATIDITYA/variant.m3u8
+#EXTINF:-1,Матч ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1,Матч ТВ HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTVHD/variant.m3u8
+#EXTINF:-1,Мир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1,Мир 24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR24/variant.m3u8
+#EXTINF:-1,Москва 24
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8
+#EXTINF:-1,Муз ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1,НТВ
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_NTV/variant.m3u8
+#EXTINF:-1,НТВ HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_HD/variant.m3u8
+#EXTINF:-1,ОТР
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1,Первый канал
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8
+#EXTINF:-1,Первый канал HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8
+#EXTINF:-1,Просвещение
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PROSVESCHENIE/variant.m3u8
+#EXTINF:-1,Пятница!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1,Пятый канал
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_5TV/variant.m3u8
+#EXTINF:-1,РБК-ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BRC/variant.m3u8
+#EXTINF:-1,РЕН ТВ
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_RENTV/variant.m3u8
+#EXTINF:-1,Радость Моя
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADOSTMOYA/variant.m3u8
+#EXTINF:-1,Россия 1
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA1/variant.m3u8
+#EXTINF:-1,Россия 24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1,Россия К
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIAK/variant.m3u8
+#EXTINF:-1,Россия-1 HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_RUSSIA1HD/variant.m3u8
+#EXTINF:-1,СТС
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STS/variant.m3u8
+#EXTINF:-1,Сарафан
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_SARAFAN/variant.m3u8
+#EXTINF:-1,Союз
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SOYUZ/variant.m3u8
+#EXTINF:-1,Спас
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1,ТВ 3
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1,ТВ Центр
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVC/variant.m3u8
+#EXTINF:-1,ТНТ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1,Телеканал "Известия" HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/variant.m3u8
+#EXTINF:-1,Тео-ТВ
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TEOTV/variant.m3u8
+#EXTINF:-1,Че
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CHE/variant.m3u8
+#EXTINF:-1,Ю
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_U/variant.m3u8
+#EXTINF:-1,Ювелирочка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_JUVELIRTV/variant.m3u8
