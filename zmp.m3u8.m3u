@@ -1,1741 +1,1843 @@
-# EXTM3U
-#EXTINF: 0, Первый канал HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTM3U
+#EXTINF:-1,2РЎвЂ¦2
+udp://@225.33.23.224:5000
+#EXTINF:-1,360 HD
+udp://@225.33.53.44:5000
+#EXTINF:-1,DW-TV
+udp://@225.33.23.7:5000
+#EXTINF:-1,Leomax24
+udp://@225.33.23.12:5000
+#EXTINF:-1,NHK WORLD-JAPAN
+udp://@225.33.23.11:5000
+#EXTINF:-1,RTTV HD
+udp://@225.33.53.25:5000
+#EXTINF:-1,Shop&Show
+udp://@225.33.23.146:5000
+#EXTINF:-1,Shopping live
+udp://@225.33.23.2:5000
+#EXTINF:-1,Р вЂР ВµР В»Р В Р С•РЎРѓ
+udp://@225.33.23.153:5000
+#EXTINF:-1,Р вЂР ВµР В»Р В°РЎР‚РЎС“РЎРѓРЎРЉ 24
+udp://@225.33.23.155:5000
+#EXTINF:-1,Р вЂР С•Р В»РЎРЉРЎв‚¬Р В°РЎРЏ Р С’Р В·Р С‘РЎРЏ HD
+udp://@225.33.53.91:5000
+#EXTINF:-1,Р вЂ™Р СљР вЂўР РЋР СћР вЂў-Р В Р В¤
+udp://@225.33.23.17:5000
+#EXTINF:-1,Р вЂ™РЎРѓРЎвЂ Р СћР вЂ™
+udp://@225.33.53.112:5000
+#EXTINF:-1,Р вЂќР С•Р Р†Р ВµРЎР‚Р С‘Р Вµ
+udp://@233.3.2.23:5000
+#EXTINF:-1,Р вЂќР С•Р СР В°РЎв‚¬Р Р…Р С‘Р в„–
+udp://@225.77.225.14:5000
+#EXTINF:-1,Р вЂ”Р Р†Р ВµР В·Р Т‘Р В°
+udp://@225.77.225.17:5000
+#EXTINF:-1,Р С™Р В°РЎР‚РЎС“РЎРѓР ВµР В»РЎРЉ
+udp://@225.77.225.8:5000
+#EXTINF:-1,Р СљР В°Р СР В°
+udp://@225.33.23.96:5000
+#EXTINF:-1,Р СљР В°РЎвЂљРЎвЂЎ Р СћР вЂ™
+udp://@225.77.225.3:5000
+#EXTINF:-1,Р СљР В°РЎвЂљРЎвЂЎ Р СћР вЂ™ HD
+udp://@225.33.53.75:5000
+#EXTINF:-1,Р СљР В°РЎвЂљРЎвЂЎ Р СћР вЂ™ HD
+udp://@225.33.43.47:5000
+#EXTINF:-1,Р СљР С‘РЎР‚
+udp://@225.77.225.18:5000
+#EXTINF:-1,Р СљР С‘РЎР‚ 24
+udp://@225.33.23.13:5000
+#EXTINF:-1,Р СљР С•РЎРѓР С”Р Р†Р В° 24
+udp://@233.3.2.21:5000
+#EXTINF:-1,Р СљРЎС“Р В· Р СћР вЂ™
+udp://@225.77.225.20:5000
+#EXTINF:-1,Р СњР СћР вЂ™
+udp://@225.77.225.4:5000
+#EXTINF:-1,Р С›Р СћР В 
+udp://@225.77.225.9:5000
+#EXTINF:-1,Р СџР ВµРЎР‚Р Р†РЎвЂ№Р в„– Р С”Р В°Р Р…Р В°Р В»
+udp://@225.77.225.1:5000
+#EXTINF:-1,Р СџР ВµРЎР‚Р Р†РЎвЂ№Р в„– Р С”Р В°Р Р…Р В°Р В» HD
+udp://@225.33.43.1:5000
+#EXTINF:-1,Р СџРЎР‚Р С•РЎРѓР Р†Р ВµРЎвЂ°Р ВµР Р…Р С‘Р Вµ
+udp://@225.33.23.79:5000
+#EXTINF:-1,Р СџРЎРЏРЎвЂљР Р…Р С‘РЎвЂ Р В°!
+udp://@225.77.225.16:5000
+#EXTINF:-1,Р СџРЎРЏРЎвЂљРЎвЂ№Р в„– Р С”Р В°Р Р…Р В°Р В»
+udp://@225.77.225.5:5000
+#EXTINF:-1,Р В Р вЂР С™-Р СћР вЂ™
+udp://@225.33.23.9:5000
+#EXTINF:-1,Р В Р вЂўР Сњ Р СћР вЂ™
+udp://@225.77.225.11:5000
+#EXTINF:-1,Р В Р В°Р Т‘Р С•РЎРѓРЎвЂљРЎРЉ Р СљР С•РЎРЏ
+udp://@225.33.23.93:5000
+#EXTINF:-1,Р В Р С•РЎРѓРЎРѓР С‘РЎРЏ 1
+udp://@225.77.225.2:5000
+#EXTINF:-1,Р В Р С•РЎРѓРЎРѓР С‘РЎРЏ 24
+udp://@225.77.225.7:5000
+#EXTINF:-1,Р В Р С•РЎРѓРЎРѓР С‘РЎРЏ Р С™
+udp://@225.77.225.6:5000
+#EXTINF:-1,Р В Р С•РЎРѓРЎРѓР С‘РЎРЏ-1 HD
+udp://@225.33.43.23:5000
+#EXTINF:-1,Р РЋР СћР РЋ
+udp://@225.77.225.13:5000
+#EXTINF:-1,Р РЋР В°РЎР‚Р В°РЎвЂћР В°Р Р…
+udp://@225.33.23.107:5000
+#EXTINF:-1,Р РЋР С•РЎР‹Р В·
+udp://@225.33.23.151:5000
+#EXTINF:-1,Р РЋР С—Р В°РЎРѓ
+udp://@225.77.225.12:5000
+#EXTINF:-1,Р СћР вЂ™ 3
+udp://@225.77.225.15:5000
+#EXTINF:-1,Р СћР вЂ™ Р В¦Р ВµР Р…РЎвЂљРЎР‚
+udp://@225.77.225.10:5000
+#EXTINF:-1,Р СћР СњР Сћ
+udp://@225.77.225.19:5000
+#EXTINF:-1,Р СћР ВµР В»Р ВµР С”Р В°Р Р…Р В°Р В» "Р ВР В·Р Р†Р ВµРЎРѓРЎвЂљР С‘РЎРЏ" HD
+udp://@225.33.53.59:5000
+#EXTINF:-1,Р СћР ВµР С•-Р СћР вЂ™
+udp://@225.33.43.130:5000
+#EXTINF:-1,Р В§Р Вµ
+udp://@225.33.23.225:5000
+#EXTINF:-1,Р В®
+udp://@225.33.23.205:5000
+#EXTINF:-1,Р В®Р Р†Р ВµР В»Р С‘РЎР‚Р С•РЎвЂЎР С”Р В°
+udp://@225.33.23.8:5000
+
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8
-#EXTINF: 0, Первый канал
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© ГЄГ Г­Г Г«
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF: 0, Россия 1 HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї 1 HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_RUSSIA1HD/variant.m3u8
-#EXTINF: 0, Россия 1
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї 1
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF: 0, НТВ HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ’Г‚ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_HD/variant.m3u8
-#EXTINF: 0, НТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF: 0, Рен ТВ HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГҐГ­ Г’Г‚ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD/variant.m3u8
-#EXTINF: 0, Рен ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГҐГ­ Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF: 0, Мир
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГЁГ°
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF: 0, Мир Premium HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГЁГ° Premium HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIRHD/variant.m3u8
-#EXTINF: 0, ТВ Центр
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г‚ Г–ГҐГ­ГІГ°
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF: 0, Звезда
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‡ГўГҐГ§Г¤Г 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF: 0, ОТР
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЋГ’Гђ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF: 0, Пятый канал
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГїГІГ»Г© ГЄГ Г­Г Г«
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF: 0, Домашний
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„Г®Г¬Г ГёГ­ГЁГ©
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF: 0, Россия К
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї ГЉ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF: 0,360 ° Подмосковье HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0,360 В° ГЏГ®Г¤Г¬Г®Г±ГЄГ®ГўГјГҐ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PODMOSKOVIEHD/variant.m3u8
-#EXTINF: 0,360 ° Новости
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0,360 В° ГЌГ®ГўГ®Г±ГІГЁ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_360NEWSHD/variant.m3u8
 #EXTINF: 0, BBC World News
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BBCWORLDNEWS/variant.m3u8
 #EXTINF: 0, CNN
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CNN_INTERNATIONAL/variant.m3u8
 #EXTINF: 0, Deutsche Welle Europe
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DEUTSCHEWELLE/variant.m3u8
-#EXTINF: 0, Франция 24 HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г”Г°Г Г­Г¶ГЁГї 24 HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRANCE24HD/variant.m3u8
 #EXTINF: 0, Russia Today HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RTTVHD/variant.m3u8
-#EXTINF: 0, Россия сегодня
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї Г±ГҐГЈГ®Г¤Г­Гї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RT/variant.m3u8
-#EXTINF: 0, Вместе-РФ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‚Г¬ГҐГ±ГІГҐ-ГђГ”
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SOVETFEDERATSII/variant.m3u8
-#EXTINF: 0, Дума ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„ГіГ¬Г  Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DUMATV/variant.m3u8
-#EXTINF: 0, Евроновости
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г…ГўГ°Г®Г­Г®ГўГ®Г±ГІГЁ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EURONEWS/variant.m3u8
-#EXTINF: 0, Известия HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г€Г§ГўГҐГ±ГІГЁГї HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/variant.m3u8
-#EXTINF: 0, Красная линия.
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГ°Г Г±Г­Г Гї Г«ГЁГ­ГЁГї.
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_REDLINE/variant.m3u8
-#EXTINF: 0, ЛДПР ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‹Г„ГЏГђ Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LDPR/variant.m3u8
-#EXTINF: 0, Мир 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГЁГ° 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR24/variant.m3u8
-#EXTINF: 0, Москва 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ®Г±ГЄГўГ  24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8
-#EXTINF: 0, Первый российский национальный канал
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© Г°Г®Г±Г±ГЁГ©Г±ГЄГЁГ© Г­Г Г¶ГЁГ®Г­Г Г«ГјГ­Г»Г© ГЄГ Г­Г Г«
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1RNKHD/variant.m3u8
-#EXTINF: 0, РБК
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГЃГЉ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRC/variant.m3u8
-#EXTINF: 0, Россия 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF: 0, Эхо TV
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГќГµГ® TV
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ECHOTV/variant.m3u8
-#EXTINF: 0, Планета животных HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГ«Г Г­ГҐГІГ  Г¦ГЁГўГ®ГІГ­Г»Гµ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_ANIMALPLANETHD/variant.m3u8
-#EXTINF: 0, Планета животных
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГ«Г Г­ГҐГІГ  Г¦ГЁГўГ®ГІГ­Г»Гµ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ANIMALPLANET/variant.m3u8
 #EXTINF: 0, DTX HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DTXHD/variant.m3u8
-#EXTINF: 0, Да Винчи Обучение
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„Г  Г‚ГЁГ­Г·ГЁ ГЋГЎГіГ·ГҐГ­ГЁГҐ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DAVINCILEARNING/variant.m3u8
 #EXTINF: 0, Discovery Channel HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8
 #EXTINF: 0, Discovery Channel
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISCOVERYCHANNEL/variant.m3u8
 #EXTINF: 0, Discovery Science HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8
-#EXTINF: 0, Английский клуб HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЂГ­ГЈГ«ГЁГ©Г±ГЄГЁГ© ГЄГ«ГіГЎ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ENGLISHCLUBHD/variant.m3u8
 #EXTINF: 0, Galaxy TV HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TAINYGALAKTIKIHD/variant.m3u8
 #EXTINF: 0, H2 HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_H2HD/variant.m3u8
-#EXTINF: 0, История HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г€Г±ГІГ®Г°ГЁГї HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDHISTORY/variant.m3u8
 #EXTINF: 0, ID Investigation Discovery HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_IDXTRAHD/variant.m3u8
 #EXTINF: 0, ID Investigation Discovery
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISCOVERYINVESTIGATION/variant.m3u8
-#EXTINF: 0, Люблю природу 4K HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‹ГѕГЎГ«Гѕ ГЇГ°ГЁГ°Г®Г¤Гі 4K HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://a775797877-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/playlist.m3u8
-#EXTINF: 0, Музей HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГіГ§ГҐГ© HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUSEUMHD/variant.m3u8
 #EXTINF: 0, Nano HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NANOHD/variant.m3u8
 #EXTINF: 0, Nat Geo Wild HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_NATGEOWILDHD/variant.m3u8
 #EXTINF: 0, Nat Geo Wild
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NATGEOWILD/variant.m3u8
 #EXTINF: 0, National Geographic HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_NGCHD/variant.m3u8
 #EXTINF: 0, National Geographic
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NATGEO/variant.m3u8
 #EXTINF: 0, Ocean TV
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OCEANTV/variant.m3u8
 #EXTINF: 0, RTG HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RTGHD/variant.m3u8
-#EXTINF: 0, RTД HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, RTГ„ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RTDHD/variant.m3u8
-#EXTINF: 0, ТВ БРИКС
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г‚ ГЃГђГ€ГЉГ‘
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRICSTV/variant.m3u8
 #EXTINF: 0, Travel Channel HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TRAVELCHANNELHD/variant.m3u8
-#EXTINF: 0, Путешествия + приключения HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГіГІГҐГёГҐГ±ГІГўГЁГї + ГЇГ°ГЁГЄГ«ГѕГ·ГҐГ­ГЁГї HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_TRAVELCHANNELHD/variant.m3u8
 #EXTINF: 0, Viasat Explore HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATEXPLOREHD/variant.m3u8
-#EXTINF: 0, История Viasat HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г€Г±ГІГ®Г°ГЁГї Viasat HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATHISTORYHD/variant.m3u8
 #EXTINF: 0, Viasat Nature HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATNATUREHD/variant.m3u8
 #EXTINF: 0, Viasat Nature / History HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_VIASATNATUREHISTORYHD/variant.m3u8
-#EXTINF: 0, ZooПарк
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ZooГЏГ Г°ГЄ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZOOPARK/variant.m3u8
-#EXTINF: 0, Большая Азия HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЃГ®Г«ГјГёГ Гї ГЂГ§ГЁГї HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BIGASIAHD/variant.m3u8
-#EXTINF: 0, Время
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‚Г°ГҐГ¬Гї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VREMYADIB/variant.m3u8
-#EXTINF: 0, Глазами туриста HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГѓГ«Г Г§Г Г¬ГЁ ГІГіГ°ГЁГ±ГІГ  HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_GLAZAMITURISTAHD/variant.m3u8
-#EXTINF: 0, Доктор
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„Г®ГЄГІГ®Г°
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_24DOC/variant.m3u8
-#EXTINF: 0, Живая Планета
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г†ГЁГўГ Гї ГЏГ«Г Г­ГҐГІГ 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_JIVAYAPLANETA/variant.m3u8
-#EXTINF: 0, Живая природа HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г†ГЁГўГ Гї ГЇГ°ГЁГ°Г®Г¤Г  HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZHIVAYAPRIRODAHD/variant.m3u8
-#EXTINF: 0, Загородная Жизнь HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‡Г ГЈГ®Г°Г®Г¤Г­Г Гї Г†ГЁГ§Г­Гј HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZAGORODNAYAZHIZNHD/variant.m3u8
-#EXTINF: 0, Здоровое ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‡Г¤Г®Г°Г®ГўГ®ГҐ Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZDOROVOETV/variant.m3u8
-#EXTINF: 0, История
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г€Г±ГІГ®Г°ГЁГї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ISTORIYA/variant.m3u8
-#EXTINF: 0, Кто Куда
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГІГ® ГЉГіГ¤Г 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KTOKUDA/variant.m3u8
-#EXTINF: 0, Морской HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ®Г°Г±ГЄГ®Г© HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MORSKOYHD/variant.m3u8
-#EXTINF: 0, Моя Планета HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ®Гї ГЏГ«Г Г­ГҐГІГ  HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_IQHD/variant.m3u8
-#EXTINF: 0, Моя Планета
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ®Гї ГЏГ«Г Г­ГҐГІГ 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MYPLANET/variant.m3u8
-#EXTINF: 0, Наука 2.0
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ ГіГЄГ  2.0
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NAUKA20/variant.m3u8
-#EXTINF: 0, Ностальгия
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ®Г±ГІГ Г«ГјГЈГЁГї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NOSTALGIYA/variant.m3u8
-#EXTINF: 0, Первый Вегетарианский HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© Г‚ГҐГЈГҐГІГ Г°ГЁГ Г­Г±ГЄГЁГ© HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERVYJVEGETARIANSKIJHD/variant.m3u8
-#EXTINF: 0, Первый Образовательный
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© ГЋГЎГ°Г Г§Г®ГўГ ГІГҐГ«ГјГ­Г»Г©
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERVYJOBRAZOVATELNYJ/variant.m3u8
-#EXTINF: 0, Просвещение
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГ°Г®Г±ГўГҐГ№ГҐГ­ГЁГҐ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PROSVESCHENIE/variant.m3u8
-#EXTINF: 0, Техно 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГҐГµГ­Г® 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_24TEHNO/variant.m3u8
-#EXTINF: 0, Тномер
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г­Г®Г¬ГҐГ°
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNOMER/variant.m3u8
-#EXTINF: 0, Усадьба
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г“Г±Г Г¤ГјГЎГ 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_USADBA/variant.m3u8
 #EXTINF: 0, Eurosport 1 HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_EUROSPORTHD/variant.m3u8
 #EXTINF: 0, Eurosport 1
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT/variant.m3u8
 #EXTINF: 0, Eurosport 2 HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT2HD/variant.m3u8
 #EXTINF: 0, Eurosport 2
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT2/variant.m3u8
 #EXTINF: 0, Eurosport 4K HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
 #EXTINF: 0, Eurosport 4K
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8
 #EXTINF: 0, Eurosport Gold HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT_GHD/variant.m3u8
 #EXTINF: 0, Eurosport Gold
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT_G/variant.m3u8
-#EXTINF: 0, Экстремальные виды спорта
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГќГЄГ±ГІГ°ГҐГ¬Г Г«ГјГ­Г»ГҐ ГўГЁГ¤Г» Г±ГЇГ®Г°ГІГ 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EXTREMESPORTS/variant.m3u8
 #EXTINF: 0, Fuel TV HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FUELHD/variant.m3u8
 #EXTINF: 0, Golf TV HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_GOLFTVHD/variant.m3u8
 #EXTINF: 0, M-1 Global
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_M1GLOBAL/variant.m3u8
 #EXTINF: 0, UFC HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/variant.m3u8
 #EXTINF: 0, Viasat Sport HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATSPORTHD/variant.m3u8
 #EXTINF: 0, Viasat Sport
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATSPORT/variant.m3u8
 #EXTINF: 0, myZen.tv HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MYZENTVHD/variant.m3u8
-#EXTINF: 0, Драйв
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„Г°Г Г©Гў
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DRIVE/variant.m3u8
-#EXTINF: 0, КХЛ HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГ•Г‹ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_KHLHD/variant.m3u8
-#EXTINF: 0, КХЛ ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГ•Г‹ Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KHL/variant.m3u8
-#EXTINF: 0, Матч! Арена HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ ГІГ·! ГЂГ°ГҐГ­Г  HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_SPORT1HD/variant.m3u8
-#EXTINF: 0, Матч! Боец
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ ГІГ·! ГЃГ®ГҐГ¶
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BOETZ/variant.m3u8
-#EXTINF: 0, Матч! Игра HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ ГІГ·! Г€ГЈГ°Г  HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHIGRAHD/variant.m3u8
-#EXTINF: 0, Матч! Премьер HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ ГІГ·! ГЏГ°ГҐГ¬ГјГҐГ° HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_NASHFOOTBALLHD/variant.m3u8
-#EXTINF: 0, Матч! Страна
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ ГІГ·! Г‘ГІГ°Г Г­Г 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSPORT/variant.m3u8
-#EXTINF: 0, Матч! ТВ HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ ГІГ·! Г’Г‚ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTVHD/variant.m3u8
-#EXTINF: 0, Матч! ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ ГІГ·! Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF: 0, Матч! Футбол 1 HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ ГІГ·! Г”ГіГІГЎГ®Г« 1 HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL1HD/variant.m3u8
-#EXTINF: 0, Матч! Футбол 2 HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ ГІГ·! Г”ГіГІГЎГ®Г« 2 HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL2HD/variant.m3u8
-#EXTINF: 0, Матч! Футбол 3 HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ ГІГ·! Г”ГіГІГЎГ®Г« 3 HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL3HD/variant.m3u8
-#EXTINF: 0, Мир Баскетбола
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГЁГ° ГЃГ Г±ГЄГҐГІГЎГ®Г«Г 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIRBASKETBOLA/variant.m3u8
-#EXTINF: 0, Моторспорт ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ®ГІГ®Г°Г±ГЇГ®Г°ГІ Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MOTOSPORTTV/variant.m3u8
-#EXTINF: 0, Старт HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘ГІГ Г°ГІ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STARTHD/variant.m3u8
-#EXTINF: 0, Футбол HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г”ГіГІГЎГ®Г« HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALLHD/variant.m3u8
 #EXTINF: 0, Food Network HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_FOODHD/variant.m3u8
 #EXTINF: 0, Food Network
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_FOODHD/bw2000000/variant.m3u8
-#EXTINF: 0, Русский экстрим
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГіГ±Г±ГЄГЁГ© ГЅГЄГ±ГІГ°ГЁГ¬
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREAM/variant.m3u8
-#EXTINF: 0, Русский Extreme Ultra HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГіГ±Г±ГЄГЁГ© Extreme Ultra HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
-#EXTINF: 0, Русский Экстрим UHD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГіГ±Г±ГЄГЁГ© ГќГЄГ±ГІГ°ГЁГ¬ UHD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
 #EXTINF: 0, World Fashion Channel HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_WFCHD/variant.m3u8
-#EXTINF: 0, Авто 24 HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЂГўГІГ® 24 HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AVTO24HD/variant.m3u8
-#EXTINF: 0, Авто Плюс
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЂГўГІГ® ГЏГ«ГѕГ±
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AUTOPLUS/variant.m3u8
-#EXTINF: 0, Диалоги о рыбалке HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„ГЁГ Г«Г®ГЈГЁ Г® Г°Г»ГЎГ Г«ГЄГҐ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DIALORYBHD/variant.m3u8
-#EXTINF: 0, Дикая охота HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„ГЁГЄГ Гї Г®ГµГ®ГІГ  HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/variant.m3u8
-#EXTINF: 0, Дикая рыбалка HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„ГЁГЄГ Гї Г°Г»ГЎГ Г«ГЄГ  HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/variant.m3u8
-#EXTINF: 0, Дикий
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„ГЁГЄГЁГ©
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKIY/variant.m3u8
-#EXTINF: 0, Еда Премиум HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г…Г¤Г  ГЏГ°ГҐГ¬ГЁГіГ¬ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EDAHD/variant.m3u8
-#EXTINF: 0, Еда
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г…Г¤Г 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EDA/variant.m3u8
-#EXTINF: 0, Ключ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГ«ГѕГ·
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KEY/variant.m3u8
-#EXTINF: 0, Кухня ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГіГµГ­Гї Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KUHNYA/variant.m3u8
-#EXTINF: 0, Мужской
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГіГ¦Г±ГЄГ®Г©
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZHSKOY/variant.m3u8
-#EXTINF: 0, Оружие
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЋГ°ГіГ¦ГЁГҐ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_WEAPON/variant.m3u8
-#EXTINF: 0, Охота и рыбалка
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЋГµГ®ГІГ  ГЁ Г°Г»ГЎГ Г«ГЄГ 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OHOTAIRYBALKS/variant.m3u8
-#EXTINF: 0, Охотник и рыболов HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЋГµГ®ГІГ­ГЁГЄ ГЁ Г°Г»ГЎГ®Г«Г®Гў HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OHOTNIKIRYBOLOVHD/variant.m3u8
 #EXTINF: 0,2x2
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF: 0, HGTV HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_HGTVHD/variant.m3u8
 #EXTINF: 0, TLC HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_TLCHD/variant.m3u8
 #EXTINF: 0, TLC
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TLC/variant.m3u8
-#EXTINF: 0, Восток ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‚Г®Г±ГІГ®ГЄ Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VOSTOKTV/variant.m3u8
-#EXTINF: 0, Анекдот ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЂГ­ГҐГЄГ¤Г®ГІ Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/variant.m3u8
-#EXTINF: 0, Бобёр
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЃГ®ГЎВёГ°
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BOBER/variant.m3u8
-#EXTINF: 0, Жар Птица
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г†Г Г° ГЏГІГЁГ¶Г 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_JARPTIZA/variant.m3u8
-#EXTINF: 0, Живи
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г†ГЁГўГЁ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_JIVI/variant.m3u8
-#EXTINF: 0, КВН ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГ‚ГЌ Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KVN/variant.m3u8
-#EXTINF: 0, Калейдоскоп ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГ Г«ГҐГ©Г¤Г®Г±ГЄГ®ГЇ Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KALEJDOSKOPTV/variant.m3u8
-#EXTINF: 0, Москва. Доверие
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ®Г±ГЄГўГ . Г„Г®ГўГҐГ°ГЁГҐ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
-#EXTINF: 0, О! Кино
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЋ! ГЉГЁГ­Г®
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OKINO/variant.m3u8
-#EXTINF: 0, Поехали! HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГ®ГҐГµГ Г«ГЁ! HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_POEHALIHD/variant.m3u8
-#EXTINF: 0, Пятница
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГїГІГ­ГЁГ¶Г 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF: 0, СТС Love
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘Г’Г‘ Love
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF: 0, СТС
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘Г’Г‘
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF: 0, СТС-Мир
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘Г’Г‘-ГЊГЁГ°
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TSM/variant.m3u8
-#EXTINF: 0, Сарафан
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘Г Г°Г ГґГ Г­
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_SARAFAN/variant.m3u8
-#EXTINF: 0, Супер
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘ГіГЇГҐГ°
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF: 0, ТВ-3
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г‚-3
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF: 0, ТНТ HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГЌГ’ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNTHD/variant.m3u8
-#EXTINF: 0, ТНТ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГЌГ’
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF: 0, ТНТ4
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГЌГ’4
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF: 0, Театр HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГҐГ ГІГ° HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_THEATERHD/variant.m3u8
-#EXTINF: 0, ТелеКафе
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГҐГ«ГҐГЉГ ГґГҐ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TELEKAFE/variant.m3u8
-#EXTINF: 0, Теледом
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГҐГ«ГҐГ¤Г®Г¬
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_TELEDOM/variant.m3u8
-#EXTINF: 0, Точка Отрыва
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г®Г·ГЄГ  ГЋГІГ°Г»ГўГ 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TOCHKAOTRYVA/variant.m3u8
-#EXTINF: 0, Центральное телевидение
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г–ГҐГ­ГІГ°Г Г«ГјГ­Г®ГҐ ГІГҐГ«ГҐГўГЁГ¤ГҐГ­ГЁГҐ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CENTRALTV/variant.m3u8
-#EXTINF: 0, Че
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г—ГҐ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF: 0, Ю
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Гћ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF: 0, Ани
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЂГ­ГЁ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ANI/variant.m3u8
-#EXTINF: 0, Детское ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„ГҐГІГ±ГЄГ®ГҐ Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BABYTV/variant.m3u8
-#EXTINF: 0, Бумеранг
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЃГіГ¬ГҐГ°Г Г­ГЈ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BOOMERANG/variant.m3u8
 #EXTINF: 0, Cartoon Network HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CARTOON_NETWORKSHD/variant.m3u8
-#EXTINF: 0, Дисней
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„ГЁГ±Г­ГҐГ©
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF: 0, Gulli Girl
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_GULLI/variant.m3u8
 #EXTINF: 0, JimJam
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_JIMJAM/variant.m3u8
-#EXTINF: 0, Ник младший
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГЁГЄ Г¬Г«Г Г¤ГёГЁГ©
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NICKJUNIOR/variant.m3u8
 #EXTINF: 0, Nickelodeon HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_NICKELODEONHD/variant.m3u8
-#EXTINF: 0, Никелодеон
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГЁГЄГҐГ«Г®Г¤ГҐГ®Г­
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NICKELODEON/variant.m3u8
 #EXTINF: 0, TiJi
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TIJI/variant.m3u8
-#EXTINF: 0, В гостях у сказки
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‚ ГЈГ®Г±ГІГїГµ Гі Г±ГЄГ Г§ГЄГЁ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VGOSTYAHUSKAZKI/variant.m3u8
-#EXTINF: 0, Детский Мир
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„ГҐГІГ±ГЄГЁГ© ГЊГЁГ°
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJMIR/variant.m3u8
-#EXTINF: 0, Карусель
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГ Г°ГіГ±ГҐГ«Гј
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF: 0, Малыш
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ Г«Г»Гё
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MALYSHTV/variant.m3u8
-#EXTINF: 0, Мама
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ Г¬Г 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATIDITYA/variant.m3u8
-#EXTINF: 0, Мульт HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГіГ«ГјГІ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TLUMHD/variant.m3u8
-#EXTINF: 0, Мульт
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГіГ«ГјГІ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MULT/variant.m3u8
-#EXTINF: 0, Мультиландия
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГіГ«ГјГІГЁГ«Г Г­Г¤ГЁГї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MULTIMANIA/variant.m3u8
-#EXTINF: 0, Мультимузыка
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГіГ«ГјГІГЁГ¬ГіГ§Г»ГЄГ 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STRANA/variant.m3u8
-#EXTINF: 0, О!
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЋ!
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_O/variant.m3u8
-#EXTINF: 0, Радость Моя
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ Г¤Г®Г±ГІГј ГЊГ®Гї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RADOSTMOYA/variant.m3u8
-#EXTINF: 0, СТС Kids HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘Г’Г‘ Kids HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSKIDSHD/variant.m3u8
-#EXTINF: 0, Смайлик ТВ HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘Г¬Г Г©Г«ГЁГЄ Г’Г‚ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SMAILIKHD/variant.m3u8
-#EXTINF: 0, Уникум
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г“Г­ГЁГЄГіГ¬
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJ/variant.m3u8
-#EXTINF: 0,1HD Музыкальное телевидение
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0,1HD ГЊГіГ§Г»ГЄГ Г«ГјГ­Г®ГҐ ГІГҐГ«ГҐГўГЁГ¤ГҐГ­ГЁГҐ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1HDMUSICTV/variant.m3u8
 #EXTINF: 0, AIVA HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AIVAHD/variant.m3u8
 #EXTINF: 0, Bridge TV Classic
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVCLASSIC/variant.m3u8
 #EXTINF: 0, Bridge TV Deluxe
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGEHD/variant.m3u8
 #EXTINF: 0, Bridge TV Hits
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVDANCE/variant.m3u8
-#EXTINF: 0, Bridge TV Русский Хит
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Bridge TV ГђГіГ±Г±ГЄГЁГ© Г•ГЁГІ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSONGTV/variant.m3u8
-#EXTINF: 0, Bridge TV Шлягер
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Bridge TV ГГ«ГїГЈГҐГ°
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVSHLYAGER/variant.m3u8
 #EXTINF: 0, Bridge TV
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETV/variant.m3u8
 #EXTINF: 0, Clubbing TV HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CLUBBINGHD/variant.m3u8
 #EXTINF: 0, Europa Plus TV
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROPAPLUSTV/variant.m3u8
 #EXTINF: 0, iConcerts HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ICONCERTSHD/variant.m3u8
 #EXTINF: 0, MCM Top
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MCMTOP/variant.m3u8
 #EXTINF: 0, MTV Dance
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVDANCE/variant.m3u8
 #EXTINF: 0, MTV HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVHD/variant.m3u8
-#EXTINF: 0, Хиты MTV
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г•ГЁГІГ» MTV
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVHITS/variant.m3u8
 #EXTINF: 0, MTV Live HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_MTVLIVEHD/variant.m3u8
 #EXTINF: 0, MTV Rocks
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVROCKS/variant.m3u8
-#EXTINF: 0, MTV Россия
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, MTV ГђГ®Г±Г±ГЁГї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MTV/variant.m3u8
 #EXTINF: 0, Mezzo Live HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MEZZOLIVEHD/variant.m3u8
-#EXTINF: 0, Меццо
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГҐГ¶Г¶Г®
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MEZZO/variant.m3u8
 #EXTINF: 0, MusicBox Gold
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUSICBOXTV/variant.m3u8
 #EXTINF: 0, RU.TV HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUTVHD/variant.m3u8
-#EXTINF: 0, Русский MusicBox HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГіГ±Г±ГЄГЁГ© MusicBox HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAN_MUSICBOXHD/variant.m3u8
-#EXTINF: 0, SONG TV HD Россия
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, SONG TV HD ГђГ®Г±Г±ГЁГї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SONGTVRUSHD/variant.m3u8
 #EXTINF: 0, SONG TV HD Armenia
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SONGTVARMHD/variant.m3u8
 #EXTINF: 0, VH1 Classic
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VH1CLASSIC/variant.m3u8
 #EXTINF: 0, VH1 European
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VH1EUROPEAN/variant.m3u8
-#EXTINF: 0, Жара HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г†Г Г°Г  HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_JARAHD/variant.m3u8
-#EXTINF: 0, Ля-минор
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‹Гї-Г¬ГЁГ­Г®Г°
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AMOLL/variant.m3u8
-#EXTINF: 0, Муз ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГіГ§ Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF: 0, Музыка Первого
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГіГ§Г»ГЄГ  ГЏГҐГ°ГўГ®ГЈГ®
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZYKAPERVOGO/variant.m3u8
-#EXTINF: 0, О2ТВ HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЋ2Г’Г‚ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_O2TVHD/variant.m3u8
-#EXTINF: 0, ТНТ Музыка
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГЌГ’ ГЊГіГ§Г»ГЄГ 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AONE/variant.m3u8
-#EXTINF: 0, Шансон-ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГГ Г­Г±Г®Г­-Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SHANSONTV/variant.m3u8
 #EXTINF: 0, Amedia 1 HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_HDAMEDIA/variant.m3u8
 #EXTINF: 0, Amedia 2 HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_A2PROLYBOV/variant.m3u8
-#EXTINF: 0, Амедиа 2
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЂГ¬ГҐГ¤ГЁГ  2
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIA2/variant.m3u8
 #EXTINF: 0, Amedia Hit HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAHITHD/variant.m3u8
-#EXTINF: 0, Амедиа Хит
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЂГ¬ГҐГ¤ГЁГ  Г•ГЁГІ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAHITSD/variant.m3u8
 #EXTINF: 0, Amedia Premium HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8
 #EXTINF: 0, Amedia Premium
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAPREMIUMSD/variant.m3u8
-#EXTINF: 0, Болливуд HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЃГ®Г«Г«ГЁГўГіГ¤ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLLYWOODHD/variant.m3u8
-#EXTINF: 0, Bolt HD Россия
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Bolt HD ГђГ®Г±Г±ГЁГї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLTHD/variant.m3u8
-#EXTINF: 0, Кино
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГЁГ­Г®
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PARKRAZVLECHENIJ/variant.m3u8
 #EXTINF: 0, FAN HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FANHD/variant.m3u8
 #EXTINF: 0, FOX HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_FOXHD/variant.m3u8
 #EXTINF: 0, FOX Life HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_FOXLIFEHD/variant.m3u8
 #EXTINF: 0, Paramount Channel HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_PARAMOUNTCHANNELHD/variant.m3u8
-#EXTINF: 0, канал Paramount
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЄГ Г­Г Г« Paramount
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PARAMOUNTCHANNEL/variant.m3u8
 #EXTINF: 0, Paramount Comedy HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8
-#EXTINF: 0, Снимок ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘Г­ГЁГ¬Г®ГЄ Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SHOTTVHD/variant.m3u8
 #EXTINF: 0, Sony Channel HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_SETHD/variant.m3u8
-#EXTINF: 0, канал Sony
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЄГ Г­Г Г« Sony
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SET/variant.m3u8
 #EXTINF: 0, Sony Sci-Fi
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SONYSCIFI/variant.m3u8
 #EXTINF: 0, Sony Turbo
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SONYTURBO/variant.m3u8
-#EXTINF: 0, Спайк HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘ГЇГ Г©ГЄ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPIKEHD/variant.m3u8
 #EXTINF: 0, Star Cinema HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STARCINEMAHD/variant.m3u8
-#EXTINF: 0, Звездная семья HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‡ГўГҐГ§Г¤Г­Г Гї Г±ГҐГ¬ГјГї HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STARFAMILYHD/variant.m3u8
 #EXTINF: 0, Trash TV
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TRASHHD/variant.m3u8
 #EXTINF: 0, TV 1000 Action HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8
 #EXTINF: 0, TV 1000 HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/variant.m3u8
-#EXTINF: 0, TV 1000 Русское Кино HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, TV 1000 ГђГіГ±Г±ГЄГ®ГҐ ГЉГЁГ­Г® HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/variant.m3u8
-#EXTINF: 0, ТВ XXI
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г‚ XXI
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/variant.m3u8
 #EXTINF: 0, Ultra HD Cinema HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
 #EXTINF: 0, Ultra HD Cinema
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8
 #EXTINF: 0, ViP Comedy HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000COMEDYHD/variant.m3u8
 #EXTINF: 0, ViP Megahit HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8
 #EXTINF: 0, ViP Premiere HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8
 #EXTINF: 0, ViP Serial HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATGOLFHD/variant.m3u8
 #EXTINF: 0, Zee-TV
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZEETV/variant.m3u8
-#EXTINF: 0, Арсенал HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЂГ°Г±ГҐГ­Г Г« HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ARSENALHD/variant.m3u8
-#EXTINF: 0, Блокбастер HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЃГ«Г®ГЄГЎГ Г±ГІГҐГ° HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BLOCKBUSTERHD/variant.m3u8
-#EXTINF: 0, Дом Кино Премиум HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„Г®Г¬ ГЉГЁГ­Г® ГЏГ°ГҐГ¬ГЁГіГ¬ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINOPREMIUMHD/variant.m3u8
-#EXTINF: 0, Дом Кино
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„Г®Г¬ ГЉГЁГ­Г®
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINO/variant.m3u8
-#EXTINF: 0, Дорама
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„Г®Г°Г Г¬Г 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DORAMA/variant.m3u8
-#EXTINF: 0, Иллюзион +
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г€Г«Г«ГѕГ§ГЁГ®Г­ +
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/variant.m3u8
-#EXTINF: 0, Камеди HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГ Г¬ГҐГ¤ГЁ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYHD/variant.m3u8
-#EXTINF: 0, Кино ТВ HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГЁГ­Г® Г’Г‚ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOTVHD/variant.m3u8
-#EXTINF: 0, Кинокомедия
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГЁГ­Г®ГЄГ®Г¬ГҐГ¤ГЁГї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYTV/variant.m3u8
-#EXTINF: 0, Киномикс
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГЁГ­Г®Г¬ГЁГЄГ±
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINO/variant.m3u8
-#EXTINF: 0, Кинопоказ HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГЁГ­Г®ГЇГ®ГЄГ Г§ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOPOKAZHD/variant.m3u8
-#EXTINF: 0, Кинопремьера HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГЁГ­Г®ГЇГ°ГҐГ¬ГјГҐГ°Г  HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOPREMIEREHD/variant.m3u8
-#EXTINF: 0, Киносвидание HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГЁГ­Г®Г±ГўГЁГ¤Г Г­ГЁГҐ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KINODATEHD/variant.m3u8
-#EXTINF: 0, Киносемья HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГЁГ­Г®Г±ГҐГ¬ГјГї HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOFAMILYHD/variant.m3u8
-#EXTINF: 0, Киноужас HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГЁГ­Г®ГіГ¦Г Г± HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUZHASHD/variant.m3u8
-#EXTINF: 0, Кинохит HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГЁГ­Г®ГµГЁГІ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOHITHD/variant.m3u8
-#EXTINF: 0, Любимое кино
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‹ГѕГЎГЁГ¬Г®ГҐ ГЄГЁГ­Г®
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LUBIMOE/variant.m3u8
-#EXTINF: 0, Мир Сериала
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГЁГ° Г‘ГҐГ°ГЁГ Г«Г 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIRSERIALA/variant.m3u8
-#EXTINF: 0, Мосфильм. Золотая коллекция
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ®Г±ГґГЁГ«ГјГ¬. Г‡Г®Г«Г®ГІГ Гї ГЄГ®Г«Г«ГҐГЄГ¶ГЁГї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MOSFILM/variant.m3u8
-#EXTINF: 0, Мужское кино
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГіГ¦Г±ГЄГ®ГҐ ГЄГЁГ­Г®
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINOSOYUZ/variant.m3u8
-#EXTINF: 0, Наш кинопоказ HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ Гё ГЄГЁГ­Г®ГЇГ®ГЄГ Г§ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHKINOPOKAZHD/variant.m3u8
-#EXTINF: 0, НСТ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ‘Г’
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NSTV/variant.m3u8
-#EXTINF: 0, Наше Мужское HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ ГёГҐ ГЊГіГ¦Г±ГЄГ®ГҐ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHEMUZHSKOEHD/variant.m3u8
-#EXTINF: 0, Наше новое кино
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ ГёГҐ Г­Г®ГўГ®ГҐ ГЄГЁГ­Г®
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8
-#EXTINF: 0, Победа HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГ®ГЎГҐГ¤Г  HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_POBEDAHD/variant.m3u8
-#EXTINF: 0, Победа
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГ®ГЎГҐГ¤Г 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_POBEDAHD/bw2000000/variant.m3u8
-#EXTINF: 0, Про любовь HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГ°Г® Г«ГѕГЎГ®ГўГј HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PROLUBOVHD/variant.m3u8
-#EXTINF: 0, Ретро
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГҐГІГ°Г®
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RETROTV/variant.m3u8
-#EXTINF: 0, Родное кино
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г¤Г­Г®ГҐ ГЄГЁГ­Г®
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNASHEKINO/variant.m3u8
-#EXTINF: 0, Русская Комедия
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГіГ±Г±ГЄГ Гї ГЉГ®Г¬ГҐГ¤ГЁГї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KOMEDIA/variant.m3u8
-#EXTINF: 0, Русский Бестселлер
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГіГ±Г±ГЄГЁГ© ГЃГҐГ±ГІГ±ГҐГ«Г«ГҐГ°
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANBESTSELLER/variant.m3u8
-#EXTINF: 0, Русский Детектив
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГіГ±Г±ГЄГЁГ© Г„ГҐГІГҐГЄГІГЁГў
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RUSSIANDETECTIVE/variant.m3u8
-#EXTINF: 0, Русский Иллюзион
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГіГ±Г±ГЄГЁГ© Г€Г«Г«ГѕГ§ГЁГ®Г­
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/variant.m3u8
-#EXTINF: 0, Русский Роман HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГіГ±Г±ГЄГЁГ© ГђГ®Г¬Г Г­ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSKIYROMANHD/variant.m3u8
-#EXTINF: 0, Сиеста HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘ГЁГҐГ±ГІГ  HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SIESTAHD/variant.m3u8
-#EXTINF: 0, Страшное HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘ГІГ°Г ГёГ­Г®ГҐ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_STRASHNOEHD/variant.m3u8
-#EXTINF: 0, Тайна
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г Г©Г­Г 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TAINA/variant.m3u8
-#EXTINF: 0, Феникс + Кино
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г”ГҐГ­ГЁГЄГ± + ГЉГЁГ­Г®
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_GENIKSPLUSKINO/variant.m3u8
-#EXTINF: 0, Хит HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г•ГЁГІ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_HITHD/variant.m3u8
-#EXTINF: 0,12 канал (Омск)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0,12 ГЄГ Г­Г Г« (ГЋГ¬Г±ГЄ)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
-#EXTINF: 0,31 канал Челябинск
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0,31 ГЄГ Г­Г Г« Г—ГҐГ«ГїГЎГЁГ­Г±ГЄ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
-#EXTINF: 0,41 Регион
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0,41 ГђГҐГЈГЁГ®Г­
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
-#EXTINF: 0,41 Телеканал ВТК АРГУС
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0,41 Г’ГҐГ«ГҐГЄГ Г­Г Г« Г‚Г’ГЉ ГЂГђГѓГ“Г‘
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
-#EXTINF: 0,49 канал Новосибирск
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0,49 ГЄГ Г­Г Г« ГЌГ®ГўГ®Г±ГЁГЎГЁГ°Г±ГЄ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
-#EXTINF: 0,8 канал Владивосток
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0,8 ГЄГ Г­Г Г« Г‚Г«Г Г¤ГЁГўГ®Г±ГІГ®ГЄ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
-#EXTINF: 0,8 канал Красноярский край
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0,8 ГЄГ Г­Г Г« ГЉГ°Г Г±Г­Г®ГїГ°Г±ГЄГЁГ© ГЄГ°Г Г©
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
-#EXTINF: 0,8 канал Новосибирск
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0,8 ГЄГ Г­Г Г« ГЌГ®ГўГ®Г±ГЁГЎГЁГ°Г±ГЄ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
-#EXTINF: 0, Курган.РУ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГіГ°ГЈГ Г­.ГђГ“
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_KURRU_URAL_KRG/variant.m3u8
 #EXTINF: 0, MTVmix
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s45177.cdn.ngenix.net/hls/CH_R02_MTVMIX/variant.m3u8
 #EXTINF: 0, TMTV
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8
-#EXTINF: 0, TV Губерния
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, TV ГѓГіГЎГҐГ°Г­ГЁГї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
-#EXTINF: 0, ЮГРА Трэвел
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГћГѓГђГЂ Г’Г°ГЅГўГҐГ«
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
-#EXTINF: 0, Универ ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г“Г­ГЁГўГҐГ° Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R04_UNIVER/variant.m3u8
-#EXTINF: 0, АИСТ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЂГ€Г‘Г’
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
-#EXTINF: 0, АТВ-Медиа
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЂГ’Г‚-ГЊГҐГ¤ГЁГ 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_ATV/variant.m3u8
-#EXTINF: 0, АТВ-Ставрополь
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЂГ’Г‚-Г‘ГІГ ГўГ°Г®ГЇГ®Г«Гј
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
-#EXTINF: 0, Амурское областное телевидение.
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЂГ¬ГіГ°Г±ГЄГ®ГҐ Г®ГЎГ«Г Г±ГІГ­Г®ГҐ ГІГҐГ«ГҐГўГЁГ¤ГҐГ­ГЁГҐ.
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
-#EXTINF: 0, Ариг Ус 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЂГ°ГЁГЈ Г“Г± 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_ARIGUS/variant.m3u8
-#EXTINF: 0, Арктик-TV
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЂГ°ГЄГІГЁГЄ-TV
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
-#EXTINF: 0, Арктика 24 (Ноябрьск)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЂГ°ГЄГІГЁГЄГ  24 (ГЌГ®ГїГЎГ°ГјГ±ГЄ)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
-#EXTINF: 0, Архыз 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЂГ°ГµГ»Г§ 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/variant.m3u8
-#EXTINF: 0, Астрахань 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЂГ±ГІГ°Г ГµГ Г­Гј 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
-#EXTINF: 0, Афонтово Красноярск
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЂГґГ®Г­ГІГ®ГўГ® ГЉГ°Г Г±Г­Г®ГїГ°Г±ГЄ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_AFONTOVO/variant.m3u8
-#EXTINF: 0, БСТ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЃГ‘Г’
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
-#EXTINF: 0, Барс
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЃГ Г°Г±
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
-#EXTINF: 0, Башкортостан 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЃГ ГёГЄГ®Г°ГІГ®Г±ГІГ Г­ 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
-#EXTINF: 0, Белгород 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЃГҐГ«ГЈГ®Г°Г®Г¤ 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_BELGOROD24/variant.m3u8
-#EXTINF: 0, Брянская Губерния
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЃГ°ГїГ­Г±ГЄГ Гї ГѓГіГЎГҐГ°Г­ГЁГї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
-#EXTINF: 0, ВОТ ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‚ГЋГ’ Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
-#EXTINF: 0, Ветта 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‚ГҐГІГІГ  24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
-#EXTINF: 0, Волга
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‚Г®Г«ГЈГ 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_VOLGA/variant.m3u8
-#EXTINF: 0, Волгоград 1
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‚Г®Г«ГЈГ®ГЈГ°Г Г¤ 1
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
-#EXTINF: 0, Волгоград 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‚Г®Г«ГЈГ®ГЈГ°Г Г¤ 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
-#EXTINF: 0, Восток 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‚Г®Г±ГІГ®ГЄ 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
-#EXTINF: 0, Время Н
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‚Г°ГҐГ¬Гї ГЌ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
-#EXTINF: 0, Вся Уфа
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‚Г±Гї Г“ГґГ 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s45177.cdn.ngenix.net/hls/CH_R03_VSYUFA/variant.m3u8
-#EXTINF: 0, ГИС Самара
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГѓГ€Г‘ Г‘Г Г¬Г Г°Г 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VLG_SAMARA_SAMARAGIS/variant.m3u8
-#EXTINF: 0, Городской Брянск
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГѓГ®Г°Г®Г¤Г±ГЄГ®Г© ГЃГ°ГїГ­Г±ГЄ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_GORODSKOY/variant.m3u8
-#EXTINF: 0, Городской телеканал Ярославль
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГѓГ®Г°Г®Г¤Г±ГЄГ®Г© ГІГҐГ«ГҐГЄГ Г­Г Г« ГџГ°Г®Г±Г«Г ГўГ«Гј
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8
-#EXTINF: 0, Губерния 33
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГѓГіГЎГҐГ°Г­ГЁГї 33
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
-#EXTINF: 0, Губерния Самара
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГѓГіГЎГҐГ°Г­ГЁГї Г‘Г Г¬Г Г°Г 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VLG_SAMARA_GUBERNIA/variant.m3u8
-#EXTINF: 0, Губерния ТВ (Хабаровск)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГѓГіГЎГҐГ°Г­ГЁГї Г’Г‚ (Г•Г ГЎГ Г°Г®ГўГ±ГЄ)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
-#EXTINF: 0, ДОН 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„ГЋГЌ 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8
-#EXTINF: 0, Девятка ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„ГҐГўГїГІГЄГ  Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VLG_KIROV_9TV/variant.m3u8
-#EXTINF: 0, Дзержинск ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„Г§ГҐГ°Г¦ГЁГ­Г±ГЄ Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
-#EXTINF: 0, Евразия
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г…ГўГ°Г Г§ГЁГї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
-#EXTINF: 0, Енисей регион
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г…Г­ГЁГ±ГҐГ© Г°ГҐГЈГЁГ®Г­
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
-#EXTINF: 0, Заб.TV 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‡Г ГЎ.TV 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_CHITA_ZABTV/variant.m3u8
-#EXTINF: 0, Ивановское общественное телевидение
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г€ГўГ Г­Г®ГўГ±ГЄГ®ГҐ Г®ГЎГ№ГҐГ±ГІГўГҐГ­Г­Г®ГҐ ГІГҐГ«ГҐГўГЁГ¤ГҐГ­ГЁГҐ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
-#EXTINF: 0, Импульс (Новый Уренгой)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г€Г¬ГЇГіГ«ГјГ± (ГЌГ®ГўГ»Г© Г“Г°ГҐГ­ГЈГ®Г©)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
-#EXTINF: 0, Инфо 24 HD (Шадр Инфо)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г€Г­ГґГ® 24 HD (ГГ Г¤Г° Г€Г­ГґГ®)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
-#EXTINF: 0, Информационная служба Югры
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г€Г­ГґГ®Г°Г¬Г Г¶ГЁГ®Г­Г­Г Гї Г±Г«ГіГ¦ГЎГ  ГћГЈГ°Г»
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8
-#EXTINF: 0, КТВ Город
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГ’Г‚ ГѓГ®Г°Г®Г¤
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VRZH_CTVGOROD/variant.m3u8
-#EXTINF: 0, Кабардино-Балкария
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГ ГЎГ Г°Г¤ГЁГ­Г®-ГЃГ Г«ГЄГ Г°ГЁГї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sth-nalch.2581717983.ngenix.net/hls/CH_R01_OTT_STH_NALCH_KBR/variant.m3u8
-#EXTINF: 0, Камчатка 1
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГ Г¬Г·Г ГІГЄГ  1
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s14131.cdn.ngenix.net/hls/CH_R01_OTT_DV_KAM_RENTV_KAMVSEM/variant.m3u8
-#EXTINF: 0, Каскад-24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГ Г±ГЄГ Г¤-24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
-#EXTINF: 0, Катунь-24 (Барнаул)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГ ГІГіГ­Гј-24 (ГЃГ Г°Г­Г ГіГ«)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
-#EXTINF: 0, Колыма-Плюс
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГ®Г«Г»Г¬Г -ГЏГ«ГѕГ±
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
-#EXTINF: 0, Краснодар
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГ°Г Г±Г­Г®Г¤Г Г°
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
-#EXTINF: 0, Кубань 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГіГЎГ Г­Гј 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_MAYKOP/variant.m3u8
-#EXTINF: 0, Кузбасс 1
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГіГ§ГЎГ Г±Г± 1
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
-#EXTINF: 0, Лен ТВ 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‹ГҐГ­ Г’Г‚ 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
-#EXTINF: 0, Липецкое время
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‹ГЁГЇГҐГ¶ГЄГ®ГҐ ГўГ°ГҐГ¬Гї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
-#EXTINF: 0, МЭТР
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГќГ’Гђ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
-#EXTINF: 0, Майдан
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ Г©Г¤Г Г­
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3u8
-#EXTINF: 0, Миг ТВ Ноябрьск
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГЁГЈ Г’Г‚ ГЌГ®ГїГЎГ°ГјГ±ГЄ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8
-#EXTINF: 0, Миг ТВ HD Ноябрьск
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГЁГЈ Г’Г‚ HD ГЌГ®ГїГЎГ°ГјГ±ГЄ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
-#EXTINF: 0, Мир Белогорья
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГЁГ° ГЃГҐГ«Г®ГЈГ®Г°ГјГї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
-#EXTINF: 0, Мордовия 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ®Г°Г¤Г®ГўГЁГї 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_MORDOVIY24/variant.m3u8
-#EXTINF: 0, Муравленко 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГіГ°Г ГўГ«ГҐГ­ГЄГ® 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
-#EXTINF: 0, НВК Саха
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ‚ГЉ Г‘Г ГµГ 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
-#EXTINF: 0, ННТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГЌГ’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VLG_NN_NNTV/variant.m3u8
-#EXTINF: 0, НТВ (Мурманск)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ’Г‚ (ГЊГіГ°Г¬Г Г­Г±ГЄ)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NW_MURM_NTV/variant.m3u8
-#EXTINF: 0, НТМ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ’ГЊ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
-#EXTINF: 0, НТН24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ’ГЌ24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_NTN24/variant.m3u8
-#EXTINF: 0, НТРК Ингушетия
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ’ГђГЉ Г€Г­ГЈГіГёГҐГІГЁГї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_INGUSHETIYA1/variant.m3u8
-#EXTINF: 0, НТС Иркутск
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ’Г‘ Г€Г°ГЄГіГІГ±ГЄ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
-#EXTINF: 0, НТС-Ирбит (Екатеринбург)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ’Г‘-Г€Г°ГЎГЁГІ (Г…ГЄГ ГІГҐГ°ГЁГ­ГЎГіГ°ГЈ)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
-#EXTINF: 0, Национальное телевидение Чувашии
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ Г¶ГЁГ®Г­Г Г«ГјГ­Г®ГҐ ГІГҐГ«ГҐГўГЁГ¤ГҐГ­ГЁГҐ Г—ГіГўГ ГёГЁГЁ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_NATIONALTV/variant.m3u8
-#EXTINF: 0, Наш дом
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ Гё Г¤Г®Г¬
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_PENZA_NASHDOM/variant.m3u8
-#EXTINF: 0, Наши города (Когалым)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ ГёГЁ ГЈГ®Г°Г®Г¤Г  (ГЉГ®ГЈГ Г«Г»Г¬)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
-#EXTINF: 0, Ника ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГЁГЄГ  Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
-#EXTINF: 0, Новгородское областное телевидение.
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ®ГўГЈГ®Г°Г®Г¤Г±ГЄГ®ГҐ Г®ГЎГ«Г Г±ГІГ­Г®ГҐ ГІГҐГ«ГҐГўГЁГ¤ГҐГ­ГЁГҐ.
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
-#EXTINF: 0, Новое время (Радужный)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ®ГўГ®ГҐ ГўГ°ГҐГ¬Гї (ГђГ Г¤ГіГ¦Г­Г»Г©)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
-#EXTINF: 0, Новый век (Тамбов)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ®ГўГ»Г© ГўГҐГЄ (Г’Г Г¬ГЎГ®Гў)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
-#EXTINF: 0, Ноябрьск 24 HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ®ГїГЎГ°ГјГ±ГЄ 24 HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NOY24_URAL_NOY/variant.m3u8
-#EXTINF: 0, ОРТ-Планета (Оренбург)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЋГђГ’-ГЏГ«Г Г­ГҐГІГ  (ГЋГ°ГҐГ­ГЎГіГ°ГЈ)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
-#EXTINF: 0, ОТВ Екатеринбург
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЋГ’Г‚ Г…ГЄГ ГІГҐГ°ГЁГ­ГЎГіГ°ГЈ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
-#EXTINF: 0, ОТВ Приморье
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЋГ’Г‚ ГЏГ°ГЁГ¬Г®Г°ГјГҐ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
-#EXTINF: 0, ОТВ Сахалин
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЋГ’Г‚ Г‘Г ГµГ Г«ГЁГ­
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
-#EXTINF: 0, ОТВ Челябинск HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЋГ’Г‚ Г—ГҐГ«ГїГЎГЁГ­Г±ГЄ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_CHEL/variant.m3u8
-#EXTINF: 0, ОТС
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЋГ’Г‘
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
-#EXTINF: 0, Область 45 Курган
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЋГЎГ«Г Г±ГІГј 45 ГЉГіГ°ГЈГ Г­
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
-#EXTINF: 0, Объектив 59
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЋГЎГєГҐГЄГІГЁГў 59
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8
-#EXTINF: 0, Осетия-Ирыстон
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЋГ±ГҐГІГЁГї-Г€Г°Г»Г±ГІГ®Г­
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
-#EXTINF: 0, Первый областной Орел.
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© Г®ГЎГ«Г Г±ГІГ­Г®Г© ГЋГ°ГҐГ«.
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
-#EXTINF: 0, Первый Тульский
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© Г’ГіГ«ГјГ±ГЄГЁГ©
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8
-#EXTINF: 0, Первый Ярославский
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© ГџГ°Г®Г±Г«Г ГўГ±ГЄГЁГ©
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
-#EXTINF: 0, Первый городской (Киров)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© ГЈГ®Г°Г®Г¤Г±ГЄГ®Г© (ГЉГЁГ°Г®Гў)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KIROV_PERVYGORODSKOY/variant.m3u8
-#EXTINF: 0, Первый городской (Киров)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© ГЈГ®Г°Г®Г¤Г±ГЄГ®Г© (ГЉГЁГ°Г®Гў)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
-#EXTINF: 0, Первый городской (Нижний Новгород)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© ГЈГ®Г°Г®Г¤Г±ГЄГ®Г© (ГЌГЁГ¦Г­ГЁГ© ГЌГ®ГўГЈГ®Г°Г®Г¤)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_NN_PERVYGORODSKOY/variant.m3u8
-#EXTINF: 0, Первый городской (Омск)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© ГЈГ®Г°Г®Г¤Г±ГЄГ®Г© (ГЋГ¬Г±ГЄ)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8
-#EXTINF: 0, Первый канал (Магадан)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© ГЄГ Г­Г Г« (ГЊГ ГЈГ Г¤Г Г­)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_1TV/variant.m3u8
-#EXTINF: 0, Прима
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГ°ГЁГ¬Г 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
-#EXTINF: 0, Продвижение
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГ°Г®Г¤ГўГЁГ¦ГҐГ­ГЁГҐ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_PRODVIZHENIE/variant.m3u8
-#EXTINF: 0, РГВК Дагестан
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГѓГ‚ГЉ Г„Г ГЈГҐГ±ГІГ Г­
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
-#EXTINF: 0, РИМ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ€ГЊ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8
-#EXTINF: 0, РТС - Абакан
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ’Г‘ - ГЂГЎГ ГЄГ Г­
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
-#EXTINF: 0, Регион 29
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГҐГЈГЁГ®Г­ 29
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
-#EXTINF: 0, Рен ТВ 7 Канал (Красноярск)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГҐГ­ Г’Г‚ 7 ГЉГ Г­Г Г« (ГЉГ°Г Г±Г­Г®ГїГ°Г±ГЄ)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
-#EXTINF: 0, Репортер 73
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГҐГЇГ®Г°ГІГҐГ° 73
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
-#EXTINF: 0, Рифей-ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГЁГґГҐГ©-Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
-#EXTINF: 0, Россия 1 (Хабаровск)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї 1 (Г•Г ГЎГ Г°Г®ГўГ±ГЄ)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_ROSSIA1/variant.m3u8
-#EXTINF: 0, Россия 24 (Магадан)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї 24 (ГЊГ ГЈГ Г¤Г Г­)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA24/variant.m3u8
-#EXTINF: 0, Россия 24 (Хабаровск)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї 24 (Г•Г ГЎГ Г°Г®ГўГ±ГЄ)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_ROSSIA24/variant.m3u8
-#EXTINF: 0, Ростов-ПАПА
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±ГІГ®Гў-ГЏГЂГЏГЂ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R01_ROSTOVPAPA/variant.m3u8
-#EXTINF: 0, Русский Север
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГіГ±Г±ГЄГЁГ© Г‘ГҐГўГҐГ°
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
-#EXTINF: 0, Рыбинск-40
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ»ГЎГЁГ­Г±ГЄ-40
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
-#EXTINF: 0, С1 Сургут
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘1 Г‘ГіГ°ГЈГіГІ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
-#EXTINF: 0, СТВ-Байкал
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘Г’Г‚-ГЃГ Г©ГЄГ Г«
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_STVBAYKAL/variant.m3u8
-#EXTINF: 0, СЭТ TV Хабаровск
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘ГќГ’ TV Г•Г ГЎГ Г°Г®ГўГ±ГЄ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_OTTS3TTV/variant.m3u8
-#EXTINF: 0, Самара 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘Г Г¬Г Г°Г  24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_SAMARA24/variant.m3u8
-#EXTINF: 0, Сампо ТВ 360 °
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘Г Г¬ГЇГ® Г’Г‚ 360 В°
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
-#EXTINF: 0, Саратов 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘Г Г°Г ГІГ®Гў 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_SARATOV_SARATOV24/variant.m3u8
-#EXTINF: 0, Саратов 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘Г Г°Г ГІГ®Гў 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
-#EXTINF: 0, Своё ТВ Ставрополь
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘ГўГ®Вё Г’Г‚ Г‘ГІГ ГўГ°Г®ГЇГ®Г«Гј
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
-#EXTINF: 0, Селенга-ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘ГҐГ«ГҐГ­ГЈГ -Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_SELENGA/variant.m3u8
-#EXTINF: 0, СТВ (360 ° Ульяновск)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘Г’Г‚ (360 В° Г“Г«ГјГїГ­Г®ГўГ±ГЄ)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_UL_STB/variant.m3u8
-#EXTINF: 0, Студия 41
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘ГІГіГ¤ГЁГї 41
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STUDIO41/variant.m3u8
-#EXTINF: 0, Сургут 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘ГіГ°ГЈГіГІ 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
-#EXTINF: 0, ТВ Центр (Мурманск)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г‚ Г–ГҐГ­ГІГ° (ГЊГіГ°Г¬Г Г­Г±ГЄ)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_MURM_TVC/variant.m3u8
-#EXTINF: 0, ТВ-7 (Абакан)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г‚-7 (ГЂГЎГ ГЄГ Г­)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
-#EXTINF: 0, ТВ-ИН (Магнитогорск)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г‚-Г€ГЌ (ГЊГ ГЈГ­ГЁГІГ®ГЈГ®Г°Г±ГЄ)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
-#EXTINF: 0, ТВ21 + (Мурманск)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г‚21 + (ГЊГіГ°Г¬Г Г­Г±ГЄ)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
-#EXTINF: 0, ТК Вариант
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГЉ Г‚Г Г°ГЁГ Г­ГІ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_VARIANT_V/variant.m3u8
-#EXTINF: 0, ТК Центр Красноярск
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГЉ Г–ГҐГ­ГІГ° ГЉГ°Г Г±Г­Г®ГїГ°Г±ГЄ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_CENTRKRSN/variant.m3u8
-#EXTINF: 0, ТКР Рязань
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГЉГђ ГђГїГ§Г Г­Гј
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
-#EXTINF: 0, ТНВ-Планета
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГЌГ‚-ГЏГ«Г Г­ГҐГІГ 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TNV_PLANETA_URAL/variant.m3u8
-#EXTINF: 0, ТНВ-Татарстан
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГЌГ‚-Г’Г ГІГ Г°Г±ГІГ Г­
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
-#EXTINF: 0, ТНР24 (Нижневартовск)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГЌГђ24 (ГЌГЁГ¦Г­ГҐГўГ Г°ГІГ®ГўГ±ГЄ)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
-#EXTINF: 0, ТОЛК (Барнаул)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГЋГ‹ГЉ (ГЃГ Г°Г­Г ГіГ«)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
-#EXTINF: 0, Тагил-ТВ 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г ГЈГЁГ«-Г’Г‚ 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8
-#EXTINF: 0, Татарстан-24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г ГІГ Г°Г±ГІГ Г­-24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VLG_KZN_EFIR24/variant.m3u8
-#EXTINF: 0, Тверской проспект
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГўГҐГ°Г±ГЄГ®Г© ГЇГ°Г®Г±ГЇГҐГЄГІ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
-#EXTINF: 0, ТиВиСи HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГЁГ‚ГЁГ‘ГЁ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_TIVICI/variant.m3u8
-#EXTINF: 0, Тивиком
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГЁГўГЁГЄГ®Г¬
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_TIVICOM/variant.m3u8
-#EXTINF: 0, Толпар-ТВ (Уфа)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г®Г«ГЇГ Г°-Г’Г‚ (Г“ГґГ )
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s45177.cdn.ngenix.net/hls/CH_R02_TOLPAR/variant.m3u8
-#EXTINF: 0, Тольятти 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г®Г«ГјГїГІГІГЁ 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
-#EXTINF: 0, Томское время
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г®Г¬Г±ГЄГ®ГҐ ГўГ°ГҐГ¬Гї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
-#EXTINF: 0, Тюменское время
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГѕГ¬ГҐГ­Г±ГЄГ®ГҐ ГўГ°ГҐГ¬Гї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
-#EXTINF: 0, Удмуртия
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г“Г¤Г¬ГіГ°ГІГЁГї
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
-#EXTINF: 0, Урал-Информ ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г“Г°Г Г«-Г€Г­ГґГ®Г°Г¬ Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_5TV_URALIFORM_PERM/variant.m3u8
-#EXTINF: 0, Хамдан-Калмыкия 24 (Элиста)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г•Г Г¬Г¤Г Г­-ГЉГ Г«Г¬Г»ГЄГЁГї 24 (ГќГ«ГЁГ±ГІГ )
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
-#EXTINF: 0, Шаян ТВ
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГГ ГїГ­ Г’Г‚
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
-#EXTINF: 0, Экспресс
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГќГЄГ±ГЇГ°ГҐГ±Г±
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
-#EXTINF: 0, Эфир (Казань)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГќГґГЁГ° (ГЉГ Г§Г Г­Гј)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
-#EXTINF: 0, ЮТВ Чебоксары
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГћГ’Г‚ Г—ГҐГЎГ®ГЄГ±Г Г°Г»
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_UTV/variant.m3u8
-#EXTINF: 0, Югра
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГћГЈГ°Г 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
-#EXTINF: 0, Юрган
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГћГ°ГЈГ Г­
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
-#EXTINF: 0, Якутия 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГџГЄГіГІГЁГї 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
-#EXTINF: 0, Ямал-Регион
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГџГ¬Г Г«-ГђГҐГЈГЁГ®Г­
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
-#EXTINF: 0, ё
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Вё
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_M1/variant.m3u8
 #EXTINF: 0,2x2 (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
 #EXTINF: 0,2x2 (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
 #EXTINF: 0,2x2 (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
-#EXTINF: 0, Дисней (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„ГЁГ±Г­ГҐГ© (+4)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8
-#EXTINF: 0, Дисней (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„ГЁГ±Г­ГҐГ© (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-#EXTINF: 0, Домашний (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„Г®Г¬Г ГёГ­ГЁГ© (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
-#EXTINF: 0, Домашний (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„Г®Г¬Г ГёГ­ГЁГ© (+4)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
-#EXTINF: 0, Домашний (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„Г®Г¬Г ГёГ­ГЁГ© (+4)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF: 0, Домашний (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„Г®Г¬Г ГёГ­ГЁГ© (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-#EXTINF: 0, Звезда (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‡ГўГҐГ§Г¤Г  (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
-#EXTINF: 0, Звезда (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‡ГўГҐГ§Г¤Г  (+4)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
-#EXTINF: 0, Звезда (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‡ГўГҐГ§Г¤Г  (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
-#EXTINF: 0, Карусель (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГ Г°ГіГ±ГҐГ«Гј (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-#EXTINF: 0, Карусель (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГ Г°ГіГ±ГҐГ«Гј (+4)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
-#EXTINF: 0, Карусель (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЉГ Г°ГіГ±ГҐГ«Гј (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
-#EXTINF: 0, Мир (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГЁГ° (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
-#EXTINF: 0, Мир (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГЁГ° (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-#EXTINF: 0, Мужской (+6)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГіГ¦Г±ГЄГ®Г© (+6)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZHSKOY_6/variant.m3u8
-#EXTINF: 0, Муз ТВ (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГіГ§ Г’Г‚ (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-#EXTINF: 0, Муз ТВ (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГіГ§ Г’Г‚ (+4)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
-#EXTINF: 0, Муз ТВ (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГіГ§ Г’Г‚ (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
-#EXTINF: 0, НТВ (Саратов +1)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ’Г‚ (Г‘Г Г°Г ГІГ®Гў +1)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
-#EXTINF: 0, НТВ (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ’Г‚ (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
-#EXTINF: 0, НТВ (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ’Г‚ (+4)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-#EXTINF: 0, НТВ (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЌГ’Г‚ (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-#EXTINF: 0, Первый канал (+1)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© ГЄГ Г­Г Г« (+1)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
-#EXTINF: 0, Первый канал (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© ГЄГ Г­Г Г« (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
-#EXTINF: 0, Первый канал (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© ГЄГ Г­Г Г« (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
-#EXTINF: 0, Первый канал (+3)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© ГЄГ Г­Г Г« (+3)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
-#EXTINF: 0, Первый канал (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© ГЄГ Г­Г Г« (+4)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_1TV/variant.m3u8
-#EXTINF: 0, Первый канал (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© ГЄГ Г­Г Г« (+4)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8
-#EXTINF: 0, Первый канал (+5)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© ГЄГ Г­Г Г« (+5)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8
-#EXTINF: 0, Первый канал (+6)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© ГЄГ Г­Г Г« (+6)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
-#EXTINF: 0, Первый канал (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© ГЄГ Г­Г Г« (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
-#EXTINF: 0, Первый канал (+8)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© ГЄГ Г­Г Г« (+8)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
-#EXTINF: 0, Первый канал (+9)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГҐГ°ГўГ»Г© ГЄГ Г­Г Г« (+9)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
-#EXTINF: 0, Пятница (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГїГІГ­ГЁГ¶Г  (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
-#EXTINF: 0, Пятница (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГїГІГ­ГЁГ¶Г  (+4)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF: 0, Пятница (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГїГІГ­ГЁГ¶Г  (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-#EXTINF: 0, Пятый канал (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГїГІГ»Г© ГЄГ Г­Г Г« (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-#EXTINF: 0, Пятый канал (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГїГІГ»Г© ГЄГ Г­Г Г« (+4)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
-#EXTINF: 0, Пятый канал (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГїГІГ»Г© ГЄГ Г­Г Г« (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
-#EXTINF: 0, Рен ТВ (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГҐГ­ Г’Г‚ (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-#EXTINF: 0, Рен ТВ (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГҐГ­ Г’Г‚ (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
-#EXTINF: 0, Россия 1 (+1)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї 1 (+1)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-#EXTINF: 0, Россия 1 (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї 1 (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF: 0, Россия 1 (+3)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї 1 (+3)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF: 0, Россия 1 (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї 1 (+4)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
-#EXTINF: 0, Россия 1 (+5)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї 1 (+5)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8
-#EXTINF: 0, Россия 1 (+6)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї 1 (+6)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
-#EXTINF: 0, Россия 1 (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї 1 (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
-#EXTINF: 0, Россия 1 (+8)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї 1 (+8)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
-#EXTINF: 0, Россия 1 (+9)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї 1 (+9)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
-#EXTINF: 0, Россия 1 (0)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї 1 (0)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
-#EXTINF: 0, Россия К (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї ГЉ (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
-#EXTINF: 0, Россия К (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї ГЉ (+4)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
-#EXTINF: 0, Россия К (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ®Г±Г±ГЁГї ГЉ (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
-#EXTINF: 0, СТС (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘Г’Г‘ (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-#EXTINF: 0, СТС (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘Г’Г‘ (+4)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
-#EXTINF: 0, СТС (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘Г’Г‘ (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-#EXTINF: 0, СТС Love (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘Г’Г‘ Love (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
-#EXTINF: 0, СТС Love (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘Г’Г‘ Love (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
-#EXTINF: 0, Супер (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘ГіГЇГҐГ° (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
-#EXTINF: 0, Супер (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘ГіГЇГҐГ° (+4)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
-#EXTINF: 0, Супер (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘ГіГЇГҐГ° (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-#EXTINF: 0, ТВ Центр (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г‚ Г–ГҐГ­ГІГ° (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
-#EXTINF: 0, ТВ Центр (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г‚ Г–ГҐГ­ГІГ° (+4)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
-#EXTINF: 0, ТВ Центр (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г‚ Г–ГҐГ­ГІГ° (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
-#EXTINF: 0, ТВ-3 (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г‚-3 (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
-#EXTINF: 0, ТВ-3 (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г‚-3 (+4)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-#EXTINF: 0, ТВ-3 (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’Г‚-3 (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
-#EXTINF: 0, ТНТ (+1)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГЌГ’ (+1)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_SARATOV_TNT/variant.m3u8
-#EXTINF: 0, ТНТ (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГЌГ’ (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF: 0, ТНТ (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГЌГ’ (+4)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF: 0, ТНТ (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГЌГ’ (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF: 0, ТНТ4 (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГЌГ’4 (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
-#EXTINF: 0, ТНТ4 (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГЌГ’4 (+4)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
-#EXTINF: 0, ТНТ4 (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г’ГЌГ’4 (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
-#EXTINF: 0, Че (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г—ГҐ (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
-#EXTINF: 0, Че (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г—ГҐ (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
-#EXTINF: 0, Ю (+2)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Гћ (+2)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
-#EXTINF: 0, Ю (+4)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Гћ (+4)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
-#EXTINF: 0, Ю (+7)
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Гћ (+7)
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
-#EXTINF: 0, Ариран
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЂГ°ГЁГ°Г Г­
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_OTTARIRANG/variant.m3u8
 #EXTINF: 0, CCTV4
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CCTV4/variant.m3u8
-#EXTINF: 0, CGTN-Русский
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, CGTN-ГђГіГ±Г±ГЄГЁГ©
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CGTNRUS/variant.m3u8
 #EXTINF: 0, CGTN
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CGTNENG/variant.m3u8
 #EXTINF: 0, Kazakh TV
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KAZAHHD/variant.m3u8
-#EXTINF: 0, Мир NHK
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГЁГ° NHK
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NHK/variant.m3u8
 #EXTINF: 0, Shant Music HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTMUSICHD/variant.m3u8
 #EXTINF: 0, Shant News HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTNEWSHD/variant.m3u8
-#EXTINF: 0, Шант Премиум HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГГ Г­ГІ ГЏГ°ГҐГ¬ГЁГіГ¬ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTPREMIUMHD/variant.m3u8
-#EXTINF: 0, Шант серийный HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГГ Г­ГІ Г±ГҐГ°ГЁГ©Г­Г»Г© HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTSERIALHD/variant.m3u8
 #EXTINF: 0, TV5 Monde
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV5MONDEHD/variant.m3u8
-#EXTINF: 0, БелРос
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЃГҐГ«ГђГ®Г±
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TRO/variant.m3u8
-#EXTINF: 0, Беларусь 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЃГҐГ«Г Г°ГіГ±Гј 24
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BELARUS24/variant.m3u8
-#EXTINF: 0, Хабар HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г•Г ГЎГ Г° HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_HABARHD/variant.m3u8
 #EXTINF: 0, Leomax 24
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_SHOP24/variant.m3u8
-#EXTINF: 0, Магазин и выставка
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЊГ ГЈГ Г§ГЁГ­ ГЁ ГўГ»Г±ГІГ ГўГЄГ 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SHOPANDSHOW/variant.m3u8
-#EXTINF: 0, Покупки в прямом эфире
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЏГ®ГЄГіГЇГЄГЁ Гў ГЇГ°ГїГ¬Г®Г¬ ГЅГґГЁГ°ГҐ
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SHOPPINGLIFE/variant.m3u8
-#EXTINF: 0, Всё ТВ HD
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‚Г±Вё Г’Г‚ HD
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
-#EXTINF: 0, Ювелирочка
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГћГўГҐГ«ГЁГ°Г®Г·ГЄГ 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_JUVELIRTV/variant.m3u8
-#EXTINF: 0, Союз
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘Г®ГѕГ§
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SOYUZ/variant.m3u8
-#EXTINF: 0, Спас
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г‘ГЇГ Г±
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTINF: 0, Comedy Radio
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOCOMEDY/variant.m3u8
-#EXTINF: 0, Авторадио
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГЂГўГІГ®Г°Г Г¤ГЁГ®
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOAUTORADIO/variant.m3u8
-#EXTINF: 0, Детское радио
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, Г„ГҐГІГ±ГЄГ®ГҐ Г°Г Г¤ГЁГ®
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RADIODETSKOE/variant.m3u8
-#EXTINF: 0, Радио ENERGY
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ Г¤ГЁГ® ENERGY
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOENERGY/variant.m3u8
-#EXTINF: 0, Радио Relax FM
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ Г¤ГЁГ® Relax FM
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RADIORELAXFM/variant.m3u8
-#EXTINF: 0, Радио Романтика
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГђГ Г¤ГЁГ® ГђГ®Г¬Г Г­ГІГЁГЄГ 
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOROMANTIKA/variant.m3u8
-#EXTINF: 0, Юмор FM
-#EXTVLCOPT: сетевое кэширование = 1000
+#EXTINF: 0, ГћГ¬Г®Г° FM
+#EXTVLCOPT: Г±ГҐГІГҐГўГ®ГҐ ГЄГЅГёГЁГ°Г®ГўГ Г­ГЁГҐ = 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOYUMORFM/variant.m3u8
