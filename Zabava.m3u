@@ -1784,7 +1784,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANNIGHT/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эротические" tvg-id="shalun",Шалун HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SHALUNTVHD/variant.m3u8
-﻿# EXTM3U url-tvg = "https://iptvx.one/EPG"
 #EXTINF: -1 tvg-id = "2na2" group-title = "Развлекательные", 2х2
 http://play.megafon.tv/out/u/v1-video-6348301.mpd
 #EXTINF: -1 tvg-id = "360-news" group-title = "Информационные", 360 ° Новости
