@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="http://iptvx.one/EPG_LITE"
 #EXTINF:-1,Беларусь 24
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BELARUS24/variant.m3u8
 #EXTINF:-1,Домашний
