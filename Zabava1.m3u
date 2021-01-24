@@ -12,7 +12,6 @@ https://s40403.cdn.ngenix.net/dash-live11/streams/1tv/1tvdash.mpd
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="rossia1",Россия 1 HD
-#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://194.156.166.2:8000/play/a03f
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="rossia1",Россия 1
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
