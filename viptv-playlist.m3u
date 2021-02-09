@@ -1,0 +1,264 @@
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Abu Dhabi Sport Exstra.png",Abu Dhabi Sports 1 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Abu Dhabi Sport Exstra.png",Abu Dhabi Sports 2 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\National Geographic.png",Al Kass Sports 1 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\National Geographic.png",Al Kass Sports 2 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\National Geographic.png",Al Kass Sports 3 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\National Geographic.png",Al Kass Sports 4 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\National Geographic.png",Al Kass Sports 5 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Nautical Channel.png",AUTOMOTO
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 group-title="Украина / Україна",BigTen Network (Английский)
+http://161.0.157.8/PLTV/88888888/224/3221226177/02.m3u8
+#EXTINF:-1 group-title="Украина / Україна",BigTen Network HD
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна",BigTen Network HD 720 (Английский)
+http://161.0.157.8/PLTV/88888888/224/3221226177/01.m3u8
+#EXTINF:-1 group-title="Украина / Україна",BRT Sport
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\BT Sport 1.png",BT Sport 1HD
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+#EXTINF:-1 group-title="Украина / Україна",BTN HD
+http://161.0.157.8/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\C More Action.png",CMore Football
+http://95.170.215.120/hls/m3u8/CMore-Football.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Dubai Racing.png",DUBAI RACING
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\ESPN Classic Sport.png",ESPN 2
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Eurosport 1.png",Eurosport 1
+http://188.113.190.12/82/video.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\EuroSport 2.png",Eurosport 2
+http://188.113.190.12/83/video.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Eurosport  2.png",Eurosport 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Extreme Sports.png",Extreme sports
+http://188.113.190.12/39/video.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\FightBox HD.png",Fightbox
+http://188.113.190.12/147/video.m3u8
+#EXTINF:-1 group-title="Украина / Україна",Flow Sports 1 (Английский)
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1 group-title="Украина / Україна",FLOW Sports 1 HD
+http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Украина / Україна",FLOW Sports 1 HD
+http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна",Flow Sports 1 HD 720 (Английский)
+http://161.0.157.9/PLTV/88888888/224/3221226899/01.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Fox Sports 2 (NL).png",Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Fox Sports 2 (NL).png",Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/02.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Fox Sports 2 (NL).png",Fox Sports Racing HD 720
+http://161.0.157.8/PLTV/88888888/224/3221226181/01.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\CNBC Europe.png",NBC GOLF HD
+http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Dubai Racing.png",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?denmstv.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\RealTV Estate.png",Real Madrid HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Asia RED ON.png",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Asia RED ON.png",Red Bull TV (Английский)
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Asia RED ON.png",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Asia RED ON.png",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?denmstv.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Asia RED ON.png",Red Bull TV HD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Asia RED ON.png",Red Bull TV HD (Английский)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Asia RED ON.png",Red Bull TV HD 720 (Английский)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Asia RED ON.png",Red Bull TV HD 720 (Английский)
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Asia RED ON.png",Red Bull TV UHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Sky Sports F1 HD.png",Sky Sports Football HD
+http://95.170.215.120:80/hls/Sky-Spo-football-N.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Sky Sports F1 HD.png",Sky Sports Main Event HD
+http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Sky Sports Pub.png",Sky Sports Premier League HD
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\XSport.png",sport
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\XSport.png",Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\M4 Sport HD.png",Sport HD
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\BT Sport 1.png",Sport Max
+http://161.0.157.8/PLTV/88888888/224/3221226766/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\BT Sport 1.png",Sport Max
+http://161.0.157.8/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\BT Sport 1.png",Sport Max
+http://161.0.157.8/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Abu Dhabi Sport Exstra.png",Sport Max (Английский)
+http://161.0.157.8/PLTV/88888888/224/3221226766/03.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Diema Sport HD.png",Sport Max [HD]
+http://161.0.157.8/PLTV/88888888/224/3221226766/01.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Abu Dhabi Sport Exstra.png",Sport Max HD 720 (Английский)
+http://161.0.157.8/PLTV/88888888/224/3221226766/01.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Sky Sports F1.png",SPORTS MAX HD
+http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Sky Sports F1.png",SPORTS MAX HD
+http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Travel + Adventure HD.png",Turkmenistan Sport HD
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Viasat Sport.png",Viasat Sport
+http://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Viasat Sport.png",Viasat Sport
+http://188.113.190.12/34/video.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Астрахань 24.png",Астрахань.Ru Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Астрахань 24.png",Астрахань.Ru Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Конный мир.png",Конный Мир
+http://188.113.190.12/76/video.m3u8
+#EXTINF:-1 group-title="Украина / Україна",КТРК Спорт (KG)
+http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\КХЛ HD.png",КХЛ ТВ
+http://188.113.190.12/80/video.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Матч! Арена.png",Матч! Арена
+http://188.113.190.12/97/video.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Матч! Боец.png",Матч! ТВ
+http://uiptv.do.am/1ufc/000000003/playlist.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Телеканал Футбол.png",Телеканал Футбол
+http://188.113.190.12/105/video.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Abu Dhabi Sport Exstra.png",Abu Dhabi Sports 1 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Abu Dhabi Sport Exstra.png",Abu Dhabi Sports 2 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\National Geographic.png",Al Kass Sports 1 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\National Geographic.png",Al Kass Sports 2 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\National Geographic.png",Al Kass Sports 3 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\National Geographic.png",Al Kass Sports 4 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\National Geographic.png",Al Kass Sports 5 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Nautical Channel.png",AUTOMOTO
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 group-title="Украина / Україна",BigTen Network (Английский)
+http://161.0.157.8/PLTV/88888888/224/3221226177/02.m3u8
+#EXTINF:-1 group-title="Украина / Україна",BigTen Network HD
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна",BigTen Network HD 720 (Английский)
+http://161.0.157.8/PLTV/88888888/224/3221226177/01.m3u8
+#EXTINF:-1 group-title="Украина / Україна",BRT Sport
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\BT Sport 1.png",BT Sport 1HD
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+#EXTINF:-1 group-title="Украина / Україна",BTN HD
+http://161.0.157.8/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\C More Action.png",CMore Football
+http://95.170.215.120/hls/m3u8/CMore-Football.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Dubai Racing.png",DUBAI RACING
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\ESPN Classic Sport.png",ESPN 2
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Eurosport 1.png",Eurosport 1
+http://188.113.190.12/82/video.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\EuroSport 2.png",Eurosport 2
+http://188.113.190.12/83/video.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Eurosport  2.png",Eurosport 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Extreme Sports.png",Extreme sports
+http://188.113.190.12/39/video.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\FightBox HD.png",Fightbox
+http://188.113.190.12/147/video.m3u8
+#EXTINF:-1 group-title="Украина / Україна",Flow Sports 1 (Английский)
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1 group-title="Украина / Україна",FLOW Sports 1 HD
+http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Украина / Україна",FLOW Sports 1 HD
+http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна",Flow Sports 1 HD 720 (Английский)
+http://161.0.157.9/PLTV/88888888/224/3221226899/01.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Fox Sports 2 (NL).png",Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Fox Sports 2 (NL).png",Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/02.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Fox Sports 2 (NL).png",Fox Sports Racing HD 720
+http://161.0.157.8/PLTV/88888888/224/3221226181/01.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\CNBC Europe.png",NBC GOLF HD
+http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Dubai Racing.png",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?denmstv.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\RealTV Estate.png",Real Madrid HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Asia RED ON.png",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Asia RED ON.png",Red Bull TV (Английский)
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Asia RED ON.png",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Asia RED ON.png",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?denmstv.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Asia RED ON.png",Red Bull TV HD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Asia RED ON.png",Red Bull TV HD (Английский)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Asia RED ON.png",Red Bull TV HD 720 (Английский)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Asia RED ON.png",Red Bull TV HD 720 (Английский)
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Asia RED ON.png",Red Bull TV UHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Sky Sports F1 HD.png",Sky Sports Football HD
+http://95.170.215.120:80/hls/Sky-Spo-football-N.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Sky Sports F1 HD.png",Sky Sports Main Event HD
+http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Sky Sports Pub.png",Sky Sports Premier League HD
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\XSport.png",sport
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\XSport.png",Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\M4 Sport HD.png",Sport HD
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\BT Sport 1.png",Sport Max
+http://161.0.157.8/PLTV/88888888/224/3221226766/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\BT Sport 1.png",Sport Max
+http://161.0.157.8/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\BT Sport 1.png",Sport Max
+http://161.0.157.8/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Abu Dhabi Sport Exstra.png",Sport Max (Английский)
+http://161.0.157.8/PLTV/88888888/224/3221226766/03.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Diema Sport HD.png",Sport Max [HD]
+http://161.0.157.8/PLTV/88888888/224/3221226766/01.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Abu Dhabi Sport Exstra.png",Sport Max HD 720 (Английский)
+http://161.0.157.8/PLTV/88888888/224/3221226766/01.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Sky Sports F1.png",SPORTS MAX HD
+http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Sky Sports F1.png",SPORTS MAX HD
+http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Travel + Adventure HD.png",Turkmenistan Sport HD
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Viasat Sport.png",Viasat Sport
+http://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Viasat Sport.png",Viasat Sport
+http://188.113.190.12/34/video.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Астрахань 24.png",Астрахань.Ru Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Астрахань 24.png",Астрахань.Ru Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Конный мир.png",Конный Мир
+http://188.113.190.12/76/video.m3u8
+#EXTINF:-1 group-title="Украина / Україна",КТРК Спорт (KG)
+http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\КХЛ HD.png",КХЛ ТВ
+http://188.113.190.12/80/video.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Матч! Арена.png",Матч! Арена
+http://188.113.190.12/97/video.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Матч! Боец.png",Матч! ТВ
+http://uiptv.do.am/1ufc/000000003/playlist.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-logo="..\Channel\Logo\Телеканал Футбол.png",Телеканал Футбол
+http://188.113.190.12/105/video.m3u8
