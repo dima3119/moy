@@ -1,0 +1,637 @@
+﻿#EXTM3U
+#EXTINF:-1,Я – легенда
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2007_Ya_legenda_film/variant.m3u8
+#EXTINF:-1,Шпион по соседству
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2009_Shpion_po_sosedstvu_film/variant.m3u8
+#EXTINF:-1,Человек-мотылек
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2001_Chelovek_motylek__q1w2_film/variant.m3u8
+#EXTINF:-1,Небесный суд
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2012_Nebesnyy_sud__q1w0_film/variant.m3u8
+#EXTINF:-1,Ирония судьбы. Продолжение
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2007_Ironiya_sudby_prodolzhenie__q0w2_film/variant.m3u8
+#EXTINF:-1,Анастасия
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1997_Anastasiya_film/variant.m3u8
+#EXTINF:-1,Пирамммида
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2011_Pirammmida__q0w2_film/variant.m3u8
+#EXTINF:-1,Любовь в большом городе 3
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2013_Lyubov_v_bolshom_gorode_3__q0w0_film/variant.m3u8
+#EXTINF:-1,Любовь в большом городе
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2009_Lubov_v_bolshom_gorode__q0w2_film/variant.m3u8
+#EXTINF:-1,Любовь в большом городе 2
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2010_Lubov_v_bolshom_gorode_2__q0w2_film/variant.m3u8
+#EXTINF:-1,Мама (2013)
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2013_Mama__q0w0_film/variant.m3u8
+#EXTINF:-1,Повелитель бури
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2008_Povelitel_buri__q0w0_film/variant.m3u8
+#EXTINF:-1,Мама, не горюй 2
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2005_Mama_ne_goryuy_2__q1w1_film/variant.m3u8
+#EXTINF:-1,Особенности национальной рыбалки
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1998_Osobennosti_nacionalnoy_rybalki_film/variant.m3u8
+#EXTINF:-1,Мама, не горюй
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1997_Mama_ne_goryuy_film/variant.m3u8
+#EXTINF:-1,Гостья
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2013_Gostya__q0w0_film/variant.m3u8
+#EXTINF:-1,Химера
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2009_Himera__q0w0_film/variant.m3u8
+#EXTINF:-1,Безумные соседи
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2017_Bezumnye_sosedi__q0w0_film/variant.m3u8
+#EXTINF:-1,Китайская головоломка
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2013_Kitayskaya_golovolomka__q0w0_film/variant.m3u8
+#EXTINF:-1,Братья Гримм
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2005_Bratya_grimm__q0w0_film/variant.m3u8
+#EXTINF:-1,Телохранитель (2010)
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2010_Telohranitel_film/variant.m3u8
+#EXTINF:-1,Три икса
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2002_Tri_iksa_film/variant.m3u8
+#EXTINF:-1,Лица в толпе
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2011_Lica_v_tolpe_film/variant.m3u8
+#EXTINF:-1,Старски и Хатч
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2004_Starski_i_hatch__q0w0_film/variant.m3u8
+#EXTINF:-1,Криминальное чтиво
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1994_Kriminalnoe_chtivo__q0w2_film/variant.m3u8
+#EXTINF:-1,Курьер из «Рая»
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2013_Kurer_iz_raya__q0w2_film/variant.m3u8
+#EXTINF:-1,Горько!
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2013_Gorko__q0w0_film/variant.m3u8
+#EXTINF:-1,Любовь-морковь 3
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2010_Lyubov_morkov_3__q0w2_film/variant.m3u8
+#EXTINF:-1,Улыбка Моны Лизы
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2003_Ulybka_mony_lizy__q0w0_ar2e2_d2006041503_xpEJ3ysLmzR_film/3f3bd7ef/variant.m3u8
+#EXTINF:-1,Хеллбой: Герой из пекла
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2004_Hellboy_geroy_iz_pekla_film/variant.m3u8
+#EXTINF:-1,Неудержимый
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2012_Neuderzhimyy__q0w0_film/variant.m3u8
+#EXTINF:-1,Правила виноделов
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1999_Pravila_vinodelov__q0w2_film/variant.m3u8
+#EXTINF:-1,Случайный шпион
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2000_Sluchaynyy_shpion__q0w0_film/variant.m3u8
+#EXTINF:-1,Табу. Сезон 1. Серия 7
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2017_Tabu_s01_07__q0w0_m4o_film/variant.m3u8
+#EXTINF:-1,Табу. Сезон 1. Серия 8
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2017_Tabu_s01_08__q0w0_m4o_film/variant.m3u8
+#EXTINF:-1,Жизнь прекрасна (1997)
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1997_Zhizn_prekrasna__q0w0_film/variant.m3u8
+#EXTINF:-1,Адмиралъ
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2008_Admiral__q0w2_film/variant.m3u8
+#EXTINF:-1,Мальчик в полосатой пижаме
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2008_Malchik_v_polosatoy_pizhame__q0w0_film/variant.m3u8
+#EXTINF:-1,Эквилибриум
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2002_Ekvilibrium__q0w2_film/variant.m3u8
+#EXTINF:-1,Дюплекс
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2003_Dyupleks__q0w0_ar2e2_d2006041503_xDRDzFsqF2E_film/dc8d48ce/variant.m3u8
+#EXTINF:-1,Кейт и Лео
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2001_Keyt_i_leo__q0w0_film/variant.m3u8
+#EXTINF:-1,Астрал: Глава 2
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2013_Astral_glava_2__q0w2_film/variant.m3u8
+#EXTINF:-1,Табу. Сезон 1. Серия 2
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2017_Tabu_s01_02__q0w0_m4o_film/variant.m3u8
+#EXTINF:-1,Табу. Сезон 1. Серия 3
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2017_Tabu_s01_03__q0w0_m4o_film/variant.m3u8
+#EXTINF:-1,Табу. Сезон 1. Серия 1
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2017_Tabu_s01_01__q0w0_m4o_film/variant.m3u8
+#EXTINF:-1,Табу. Сезон 1. Серия 6
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2017_Tabu_s01_06__q0w0_m4o_film/variant.m3u8
+#EXTINF:-1,Тарас Бульба
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2009_Taras_bulba__q0w2_film/variant.m3u8
+#EXTINF:-1,Чикаго
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2002_Chikago__q0w0_film/variant.m3u8
+#EXTINF:-1,Табу. Сезон 1. Серия 4
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2017_Tabu_s01_04__q0w0_m4o_film/variant.m3u8
+#EXTINF:-1,Табу. Сезон 1. Серия 5
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2017_Tabu_s01_05__q0w0_m4o_film/variant.m3u8
+#EXTINF:-1,Бандитки
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2006_Banditki__q0w2_ar2e2_d2006041503_xbdHPkMfc6g_film/1e0a2efe/variant.m3u8
+#EXTINF:-1,Всё и сразу
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2013_Vse_i_srazu__q0w0_film/variant.m3u8
+#EXTINF:-1,Высоцкий. Спасибо, что живой
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2011_Vysockiy_spasibo_chto_zhivoy__q0w2_film/variant.m3u8
+#EXTINF:-1,Карлик Нос
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2003_Karlik_nos_film/variant.m3u8
+#EXTINF:-1,Любовь-морковь
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2007_Lyubov_morkov__q1w0_film/variant.m3u8
+#EXTINF:-1,Любовь-морковь 2
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2008_Lyubov_morkov_2__q0w2_film/variant.m3u8
+#EXTINF:-1,Остин Пауэрс: Человек-загадка международного масштаба
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1997_Ostin_pauers_chelobek_zagadka_mezhdunarodnogo_masshtaba__q0w2_film/variant.m3u8
+#EXTINF:-1,Каникулы строгого режима
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2008_Kanikuly_strogogo_rezhima__q0w2_film/variant.m3u8
+#EXTINF:-1,Три икса 2: Новый уровень
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2005_Tri_iksa_2_novyy_uroven_film/variant.m3u8
+#EXTINF:-1,Непрощенный
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1992_Neproshennyy__q0w2_ar2e2_d2006041503_xE44RAIXhJt_film/0161988f/variant.m3u8
+#EXTINF:-1,Парень с нашего кладбища
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2015_Paren_s_nashego_kladbisha__q0w0_film/variant.m3u8
+#EXTINF:-1,Ласковый май
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2009_Laskovyy_may__q0w0_film/variant.m3u8
+#EXTINF:-1,Дурак
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2014_Durak__q0w2_film/variant.m3u8
+#EXTINF:-1,Убийство у моря
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2013_Ubiystvo_u_morya__q0w2_film/variant.m3u8
+#EXTINF:-1,Нефть
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2007_Neft__q0w2_film/variant.m3u8
+#EXTINF:-1,Капитан Крюк
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1991_Kapitan_kryuk__q0w2_film/variant.m3u8
+#EXTINF:-1,Очень страшное кино 3
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2003_Ochen_strashnoe_kino_3__q0w0_film/variant.m3u8
+#EXTINF:-1,Чужой билет
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2000_Chuzhoy_bilet__q0w0_film/variant.m3u8
+#EXTINF:-1,Терминатор
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1984_Terminator__q0w0_film/variant.m3u8
+#EXTINF:-1,Очень страшное кино
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2000_Ochen_strashnoe_kino__q0w0_film/variant.m3u8
+#EXTINF:-1,Широко шагая
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2004_Shiroko_shagaya__film/variant.m3u8
+#EXTINF:-1,Любовь, сбивающая с ног
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2002_Lyubov_sbivayushaya_s_nog_film/variant.m3u8
+#EXTINF:-1,Статский советник
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2005_Statskiy_sovetnik__q0w2_film/variant.m3u8
+#EXTINF:-1,Чёрный ястреб
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2001_Chernyy_yastreb__q0w2_ar2e2_film/variant.m3u8
+#EXTINF:-1,Большие глаза
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2014_Bolshie_glaza__q0w0_film/variant.m3u8
+#EXTINF:-1,Наша Russia: Яйца судьбы
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2010_Nasha_russia_yayca_sudby__q0w2_film/variant.m3u8
+#EXTINF:-1,Талантливый мистер Рипли
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1999_Talantlivyy_mister_ripli__q0w0_film/variant.m3u8
+#EXTINF:-1,Холодная гора
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2003_Holodnaya_gora__q0w2_film/variant.m3u8
+#EXTINF:-1,Чёрная молния
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2009_Chernaya_molniya__q0w2_film/variant.m3u8
+#EXTINF:-1,Фрида
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2002_Frida__q0w0_film/variant.m3u8
+#EXTINF:-1,Марли и я
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2008_Marli_i_ya_film/variant.m3u8
+#EXTINF:-1,72 метра
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2004_72_metra__q2w1_film/variant.m3u8
+#EXTINF:-1,Однажды в Вегасе
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2008_Odnazhdy_v_vegase__film/variant.m3u8
+#EXTINF:-1,Водитель для Веры
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2004_Voditel_dlya_very__q0w0_film/variant.m3u8
+#EXTINF:-1,Смурфики
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2011_Smurfiki__q0w0_film/variant.m3u8
+#EXTINF:-1,Кукушка
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2002_Kukushka_film/variant.m3u8
+#EXTINF:-1,Сколько у тебя?
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2011_Skolko_u_tebya__q0w0_film/variant.m3u8
+#EXTINF:-1,Меченосец
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2006_Mechenosec_film/variant.m3u8
+#EXTINF:-1,Охотники за привидениями (1984)
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1984_Ohotniki_za_privideniyami__q0w2_ar2e2_d2006041503_xgcj2tYHxeZ_film/d6b80123/variant.m3u8
+#EXTINF:-1,Бумер
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2003_Bumer_film/variant.m3u8
+#EXTINF:-1,Жмурки
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2005_Zhmurki_film/variant.m3u8
+#EXTINF:-1,Хоттабыч
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2006_Hottabych_film/variant.m3u8
+#EXTINF:-1,Бабло
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2011_Bablo_film/variant.m3u8
+#EXTINF:-1,Фантомы
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2008_Fantomy__film/variant.m3u8
+#EXTINF:-1,Бесподобный мистер Фокс
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2009_Bespodobnyy_mister_foks__q0w0_ar2e2_film/variant.m3u8
+#EXTINF:-1,Три богатыря на дальних берегах
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2012_Tri_bogatyrya_na_dalnih_beregah__film/variant.m3u8
+#EXTINF:-1,Три богатыря и Шамаханская царица
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2010_Tri_bogatyrya_i_shamahanskaya_carica_film/variant.m3u8
+#EXTINF:-1,Особенности национальной охоты
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1995_Osobennosti_nacionalnoy_ohoty_film/variant.m3u8
+#EXTINF:-1,Илья Муромец и Соловей-Разбойник
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2007_Ilya_muromec_i_solovey_razboynik_film/variant.m3u8
+#EXTINF:-1,Иван Царевич и Серый Волк
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2011_Ivan_carevich_i_seryy_volk_film/variant.m3u8
+#EXTINF:-1,Алеша Попович и Тугарин Змей
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2004_Alesha_popovich_i_tugarin_zmey_film/variant.m3u8
+#EXTINF:-1,Добрыня Никитич и Змей Горыныч
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2006_Dobrynya_nikitich_i_zmey_gorynych__film/variant.m3u8
+#EXTINF:-1,Ёлки
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2010_Elki__q0w2_film/variant.m3u8
+#EXTINF:-1,Свадьба по обмену
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2010_Svadba_po_obmenu__q0w0_film/variant.m3u8
+#EXTINF:-1,Мачо и ботан
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2012_Macho_i_botan__film/variant.m3u8
+#EXTINF:-1,Я тоже хочу
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2012_Ya_tozhe_hochu__film/variant.m3u8
+#EXTINF:-1,Кококо
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2012_Kokoko__film/variant.m3u8
+#EXTINF:-1,Охотники на ведьм
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2013_Ohotniki_na_vedm__q0w2_film/variant.m3u8
+#EXTINF:-1,Человек из будущего
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2016_Chelovek_iz_budushego__q0w2_film/variant.m3u8
+#EXTINF:-1,Суперменеджер, или Мотыга судьбы
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2010_Supermenedzher_film/variant.m3u8
+#EXTINF:-1,Управление гневом
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2003_Upravlenie_gnevom__q0w2_ar2e2_film/variant.m3u8
+#EXTINF:-1,Мармадюк
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2010_Marmadyuk__film/variant.m3u8
+#EXTINF:-1,Из 13 в 30
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2004_Iz_13_v_30__q0w0_film/variant.m3u8
+#EXTINF:-1,Короли улиц
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2008_Koroli_ulic__q0w0_ar2e2_film/variant.m3u8
+#EXTINF:-1,Гнев (2004)
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2004_Gnev__film/variant.m3u8
+#EXTINF:-1,Человек дождя
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1988_Chelovek_dozhdya__q0w0_film/variant.m3u8
+#EXTINF:-1,Молчание ягнят
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1990_Molchanie_yagnyat__q0w1_film/variant.m3u8
+#EXTINF:-1,Когда Гарри встретил Салли
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1989_Kogda_garri_vstretil_salli__q0w0_mlogo_film/variant.m3u8
+#EXTINF:-1,Нерв
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2016_Nerv__q0w0_ar2e2_film/variant.m3u8
+#EXTINF:-1,Самый лучший фильм 3-ДЭ
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2011_Samyy_luchshiy_film_3_de__q0w0_film/variant.m3u8
+#EXTINF:-1,Самый лучший фильм 2
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2009_Samyy_luchshiy_film_2__q0w0_film/variant.m3u8
+#EXTINF:-1,Пленницы
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2013_Plennicy__q0w0_film/variant.m3u8
+#EXTINF:-1,Сокровище Амазонки
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2003_Sokrovisha_amazonki_film/variant.m3u8
+#EXTINF:-1,Бумер. Фильм второй
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2006_Bumer_film_vtoroy_film/variant.m3u8
+#EXTINF:-1,Фонтан
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2006_Fontan_film/variant.m3u8
+#EXTINF:-1,Уличный боец
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1994_ulichny_boec_film/variant.m3u8
+#EXTINF:-1,Инструкции не прилагаются
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2013_Instrukcii_ne_prilagayutsya__q0w0_film/variant.m3u8
+#EXTINF:-1,О чём молчат девушки
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2013_O_chem_molchat_devushki_film/variant.m3u8
+#EXTINF:-1,Побег (2005)
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2005_Pobeg__q1w2_film/variant.m3u8
+#EXTINF:-1,Шрек
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2001_Shrek__film/variant.m3u8
+#EXTINF:-1,Шрек 2
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2004_Shrek_2__film/variant.m3u8
+#EXTINF:-1,Игра
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1997_Igra_film/variant.m3u8
+#EXTINF:-1,Одноклассники 2
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2013_Odnoklassniki_2__q0w0_film/variant.m3u8
+#EXTINF:-1,Кинг Конг
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2005_King_kong_film/variant.m3u8
+#EXTINF:-1,Лови волну!
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2007_Lovi_volnu__q0w0_film/variant.m3u8
+#EXTINF:-1,Мумия возвращается
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2001_Mumiya_vozvrashaetsya__film/variant.m3u8
+#EXTINF:-1,Мумия
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1999_Mumiya__film/variant.m3u8
+#EXTINF:-1,Фантом
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2011_Fantom_film/variant.m3u8
+#EXTINF:-1,Константин: Повелитель тьмы
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2004_Konstantin_povelitel_tmy__film/variant.m3u8
+#EXTINF:-1,Загадочная история Бенджамина Баттона
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2008_Zagadochnaya_istoriya_bendzhamina_battona_film/variant.m3u8
+#EXTINF:-1,Троя
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2004_Troya_film/variant.m3u8
+#EXTINF:-1,Хэнкок
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2008_Henkok__film/variant.m3u8
+#EXTINF:-1,ДухLess
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2012_DukhLess_film/variant.m3u8
+#EXTINF:-1,Ганнибал
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2001_Gannibal__q0w0_film/variant.m3u8
+#EXTINF:-1,Красный Дракон
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2002_Krasnyy_drakon__q0w2_film/variant.m3u8
+#EXTINF:-1,Вечное сияние чистого разума
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2004_Vechnoe_siyanie_chistogo_razuma_film/variant.m3u8
+#EXTINF:-1,Авиатор
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2004_Aviator__film/variant.m3u8
+#EXTINF:-1,Копы в глубоком запасе
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2010_Kopy_v_glubokom_zapase__q0w2_film/variant.m3u8
+#EXTINF:-1,Последний киногерой
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1993_posledniy_kinogeroy_film/variant.m3u8
+#EXTINF:-1,Мальчики-налетчики
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2010_Malchiki_naletchiki__q0w2_film/variant.m3u8
+#EXTINF:-1,Папа-досвидос
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2012_Papa_dosvidos_film/variant.m3u8
+#EXTINF:-1,Париж: Город мёртвых
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2014_Parizh_gorod_mertvyh__q0w0_film/variant.m3u8
+#EXTINF:-1,Код апокалипсиса
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2007_Kod_apokalipsisa__xEvSyHDOO43_film/61a82fbc/variant.m3u8
+#EXTINF:-1,Престиж
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2006_Prestizh__film/variant.m3u8
+#EXTINF:-1,Реальная любовь
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2003_Realnaya_lyubov__q0w2_ar2e2_d2006041503_xglqMwqm2dr_film/3c2b6387/variant.m3u8
+#EXTINF:-1,Назад в будущее
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1985_Nazad_v_budushee_film/variant.m3u8
+#EXTINF:-1,Голая правда (2009)
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2009_Golaya_pravda__film/variant.m3u8
+#EXTINF:-1,Бесславные ублюдки
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2009_Besslavnye_ublyudki_film/variant.m3u8
+#EXTINF:-1,Каратэ-пацан
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2010_Karate_pacan__q0w2_film/variant.m3u8
+#EXTINF:-1,Назад в будущее 3
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1990_Nazad_v_budushee_3_film/variant.m3u8
+#EXTINF:-1,Назад в будущее 2
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1989_Nazad_v_budushee_2_film/variant.m3u8
+#EXTINF:-1,Война невест
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2009_Voyna_nevest_film/variant.m3u8
+#EXTINF:-1,Элвин и бурундуки
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2007_Elvin_i_burunduki_film/variant.m3u8
+#EXTINF:-1,Элвин и бурундуки 3
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2011_Elvin_i_burunduki_3_film/variant.m3u8
+#EXTINF:-1,Элвин и бурундуки 2
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2009_Elvin_i_burunduki_2_film/variant.m3u8
+#EXTINF:-1,Мой домашний динозавр
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2007_Moy_domashniy_dinozavr__film/variant.m3u8
+#EXTINF:-1,Географ глобус пропил
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2013_Geograf_globus_propil__q0w2_film/variant.m3u8
+#EXTINF:-1,Телепорт
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2008_Teleport_film/variant.m3u8
+#EXTINF:-1,Никогда не сдавайся
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2008_Nikogda_ne_sdavaysya__q0w2_film/variant.m3u8
+#EXTINF:-1,Афера Томаса Крауна
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1999_Afera_tomasa_krauna__q0w2_film/variant.m3u8
+#EXTINF:-1,Солт
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2010_Solt__q0w2_ar2e2_film/variant.m3u8
+#EXTINF:-1,Ограбление по-итальянски
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2003_Ograblenie_po_italyanski_NEW_film/variant.m3u8
+#EXTINF:-1,Лара Крофт: Расхитительница гробниц
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2001_Lara_kroft_rashititelnica_grobnic_NEW_film/variant.m3u8
+#EXTINF:-1,Лара Крофт: Расхитительница гробниц 2 – Колыбель жизни
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2003_Lara_kroft_rashititelnica_grobnic_2_kolybel_zhizni__q0w2_ar2e2_film/variant.m3u8
+#EXTINF:-1,Район № 9 HD
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/hd_2009_rayon_9_film/variant.m3u8
+#EXTINF:-1,Между небом и землей
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2005_Mezhdu_nebom_i_zemley__film/variant.m3u8
+#EXTINF:-1,Призрак дома на холме
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1999_Prizrak_doma_na_holme__film/variant.m3u8
+#EXTINF:-1,Дом большой мамочки 2
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2006_Dom_bolshoy_mamochki_2__film/variant.m3u8
+#EXTINF:-1,Монте-Карло
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2011_Monte_karlo__film/variant.m3u8
+#EXTINF:-1,Пришельцы на чердаке
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2009_Prishelcy_na_cherdake__film/variant.m3u8
+#EXTINF:-1,Звонок 2
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2005_Zvonok_2_film/variant.m3u8
+#EXTINF:-1,Звонок
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2002_Zvonok__q0w0_film/variant.m3u8
+#EXTINF:-1,Укрощение строптивого
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1980_Ukroshenie_stroptivogo__q0w0_film/variant.m3u8
+#EXTINF:-1,Легок на помине
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2014_Legok_na_pomine__q0w2_film/variant.m3u8
+#EXTINF:-1,Повелитель стихий
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2010_Povelitel_stihiy__film/variant.m3u8
+#EXTINF:-1,Семейка Аддамс
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1991_Semeyka_addams__q0w0_film/variant.m3u8
+#EXTINF:-1,Обитель зла: Возмездие
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2012_Obitel_zla_vozmezdie__film/variant.m3u8
+#EXTINF:-1,Искусственный разум
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2001_Iskusstvennyy_razum__q0w0_film/variant.m3u8
+#EXTINF:-1,Ценности семейки Аддамс
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1993_Cennosti_semeyki_addams__q0w0_ar2e2_film/variant.m3u8
+#EXTINF:-1,Поездка в Америку
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1988_Poezdka_v_ameriku__film/variant.m3u8
+#EXTINF:-1,Как отделаться от парня за 10 дней
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2003_Kak_otdelatsya_ot_parnya_za_10_dney__ar2e2_q0w0_film/variant.m3u8
+#EXTINF:-1,Хранители
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2009_Hraniteli__film/variant.m3u8
+#EXTINF:-1,Отель для собак
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2009_Otel_dlya_sobak__q0w0_ar2e2_film/variant.m3u8
+#EXTINF:-1,Дрянные девчонки (2004)
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2004_Dryannye_devchonki__film/variant.m3u8
+#EXTINF:-1,Спайдервик: Хроники
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2008_Spaydervik_hroniki__film/variant.m3u8
+#EXTINF:-1,Чарли и шоколадная фабрика
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2005_Charli_i_shokoladnaya_fabrika__film/variant.m3u8
+#EXTINF:-1,Прочь
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2017_Proch__q0w2_film/variant.m3u8
+#EXTINF:-1,Женщина в чёрном 2: Ангел смерти
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2014_Zhenshina_v_chernom_2_angel_smerti__q0w2_film/variant.m3u8
+#EXTINF:-1,Мальчишник в Вегасе
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2009_Malchishnik_v_vegase_film/variant.m3u8
+#EXTINF:-1,300 спартанцев
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2006_300_spartancev_film/variant.m3u8
+#EXTINF:-1,Мы – Миллеры
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2013_My_millery__q0w0_film/variant.m3u8
+#EXTINF:-1,Золотой компас
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2007_Zolotoy_kompas__film/variant.m3u8
+#EXTINF:-1,Мальчишник 2: Из Вегаса в Бангкок
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2011_Malchishnik_2_iz_vegasa_v_bangkok__q0w2_film/variant.m3u8
+#EXTINF:-1,Шерлок Холмс
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2009_Sherlok_holms__q0w0_film/variant.m3u8
+#EXTINF:-1,Смерч
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1996_Smerch__q0w2_film/variant.m3u8
+#EXTINF:-1,Пик Данте
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1997_Pik_dante__film/variant.m3u8
+#EXTINF:-1,Потрошители
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2009_Potroshiteli__q1w0_film/variant.m3u8
+#EXTINF:-1,Вне поля зрения
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1998_Vne_polya_zreniya__film/variant.m3u8
+#EXTINF:-1,Восьмёрка
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2013_Vosmerka__q1w0_film/variant.m3u8
+#EXTINF:-1,Трудная мишень
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1993_Trudnaya_mishen__q1w0_film/variant.m3u8
+#EXTINF:-1,Приключения Тинтина: Тайна Единорога
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_2011_Priklyucheniya_tintina_tayna_edinoroga_film/variant.m3u8
+#EXTINF:-1,Земля до начала времен
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://zabava-htvod.cdn.ngenix.net/hls/sd_1988_Zemlya_do_nachala_vremen__q1s1_ar2e2_film/variant.m3u8
